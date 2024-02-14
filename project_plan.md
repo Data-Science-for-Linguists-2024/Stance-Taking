@@ -4,7 +4,7 @@ Maya Asher, mia83, 2/11/24
 Using the [Santa Barbara Corpus of Spoken American English](https://www.linguistics.ucsb.edu/research/santa-barbara-corpus) (SBCSAE), I will conduct a discourse analysis on stance taking between interlocutors. Specifically, I will focus on varying lexical items in order to investigate investment. The SBCSAE contains a variety of different types of speech, but I will only be using the transcripts of face-to-face conversations involving spontaneous speech.
 
 ## Data
-The corpus contains 60 recordings and transcriptions, totaling in about 249,000 words. Since I am interested in spontaneous speech and natural (or as natural as possible) conversation, only 45 of the 60 transcriptions will be usable.
+The corpus contains 60 recordings and transcriptions, totaling in about 249,000 words. Since I am interested in spontaneous speech and natural (or as natural as possible) conversation, only 43 of the 60 transcriptions will be usable.
 
 The UCSB webiste provides a title and brief summary for each recording, giving important context regarding the content of the conversation. The transcripts themselves contain times stamps that correspond to the recordings, as well as a variety of different non-alphanumeric characters that indicate other aspects of the speech. Those will be cleaned out when I process the data. 
 
