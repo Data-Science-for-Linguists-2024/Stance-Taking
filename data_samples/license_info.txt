@@ -1,0 +1,7 @@
+This directory contains 43 of the 60 transcripts from the Santa Barbara Corpus of Spoken American English - https://www.linguistics.ucsb.edu/research/santa-barbara-corpus
+
+The data is protected under a Creative Commons Attribution-No Derivative Works 3.0 United States License - https://creativecommons.org/licenses/by-nd/3.0/us/
+
+The authors: John W. Du Bois, Wallace L. Chafe, Sandra A. Thompson, Charles Meyer, Robert Englebretson
+
+The only change made to the data was converting the files to UTF-16 for processing purposes. 
