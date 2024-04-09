@@ -26,3 +26,7 @@ My sharing plan remains the same as I have listed in my first progress report.
 I chose to use a MIT license because it allows people to pretty much do whatever they want with my code and does not hold me liable for their actions. I am very supportive of making resources free and accessible, so I am happy to let other people use my code if it suits their needs. The only condition with this license is that the user would have to preserve the copyright and license notices. 
 
 My data has a more restrictive license because it doesn't allow the creation and distribution of derivatives, but that is documented elsewhere in my repo so users would also have to follow those rules if they are planning to use the data too. 
+
+# 3rd Progress Report - 4/10/24
+## Summary
+
