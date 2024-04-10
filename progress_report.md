@@ -29,13 +29,13 @@ My data has a more restrictive license because it doesn't allow the creation and
 
 # 3rd Progress Report - 4/9/24
 ## Summary
-I continued editing my [data processing notebook](https://github.com/Data-Science-for-Linguists-2024/Stance-Taking-in-Spontaneous-Speech/blob/main/reprocessing_sbcsae.ipynb) and began my [analysis notebook](https://github.com/Data-Science-for-Linguists-2024/Stance-Taking-in-Spontaneous-Speech/blob/main/analyzing_sbcsae.ipynb). Due to weird spacing errors, I unfortunately had to manually go through about half of the files and make minor adjustments (like removing an extraneous tab). My data is now in its final form and the only things left to worry about are the analysis specifics and the presentation. I am having a sparsity issue with current target words, so I may try to find substitutes.
+I continued editing my [data processing notebook](https://github.com/Data-Science-for-Linguists-2024/Stance-Taking-in-Spontaneous-Speech/blob/main/reprocessing_sbcsae.ipynb) and began my [analysis notebook](https://github.com/Data-Science-for-Linguists-2024/Stance-Taking-in-Spontaneous-Speech/blob/main/analyzing_sbcsae.ipynb). Due to weird spacing errors, I unfortunately had to manually go through about half of the files and make minor adjustments (like removing an extraneous tab), so I have reuploaded my [data samples](https://github.com/Data-Science-for-Linguists-2024/Stance-Taking-in-Spontaneous-Speech/tree/main/data_samples). My data is now in its final form and the only things left to worry about are the analysis specifics and the presentation. I am having a sparsity issue with current target words, so I may try to find substitutes.
 
 I also added a new markdown file called [file_summary](https://github.com/Data-Science-for-Linguists-2024/Stance-Taking-in-Spontaneous-Speech/blob/main/file_summary.md) that has descriptions of each transcript that I included in my analysis (43 out of 60). I took the descriptions straight from the SBCSAE website (cited of course) and I think this will be a helpful resource for my analysis and for viewers of my repo.
 
 Aside from the notebooks, I did a lot of research on stance and stancetaking so that my analysis can be as factual and interesting as possible. There has been a decent amount of corpus work done regarding stance, but they are very niche and take a while to understand, especially since I am not a big fan of syntax!
 
-The next action items:
+## Action Items
 1. Figure out new target words and update the notebooks accordingly
 2. Analyze the resulting data
 3. Figure out how to add value (still unclear about this)
