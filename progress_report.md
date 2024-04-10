@@ -27,6 +27,14 @@ I chose to use a MIT license because it allows people to pretty much do whatever
 
 My data has a more restrictive license because it doesn't allow the creation and distribution of derivatives, but that is documented elsewhere in my repo so users would also have to follow those rules if they are planning to use the data too. 
 
-# 3rd Progress Report - 4/10/24
+# 3rd Progress Report - 4/9/24
 ## Summary
+I continued editing my [data processing notebook](https://github.com/Data-Science-for-Linguists-2024/Stance-Taking-in-Spontaneous-Speech/blob/main/reprocessing_sbcsae.ipynb) and began my [analysis notebook](https://github.com/Data-Science-for-Linguists-2024/Stance-Taking-in-Spontaneous-Speech/blob/main/analyzing_sbcsae.ipynb). Due to weird spacing errors, I unfortunately had to manually go through about half of the files and make minor adjustments (like removing an extraneous tab). My data is now in its final form and the only things left to worry about are the analysis specifics and the presentation. I am having a sparsity issue with current target words, so I may try to find substitutes.
 
+Aside from the notebooks, I did a lot of research on stance and stancetaking so that my analysis can be as factual and interesting as possible. There has been a decent amount of corpus work done regarding stance, but they are very niche and take a while to understand, especially since I am not a big fan of syntax!
+
+The next action items:
+1. Figure out new target words and update the notebooks accordingly
+2. Analyze the resulting data
+3. Figure out how to add value (still unclear about this)
+4. Work on presentation for next week
