@@ -1,0 +1,3680 @@
+SBC001.trn
+SBC002.trn
+SBC003.trn
+              time    speaker  \
+179  168.13 169.73              
+180  169.73 170.26  MARILYN:    
+181  170.26 170.73              
+182  170.73 173.18              
+183  173.18 174.93   ROY:       
+184  174.93 176.13  MARILYN:    
+185  176.13 179.63   ROY:       
+186  179.63 185.46  MARILYN:    
+187  185.46 191.77   ROY:       
+188  191.77 193.02              
+189  193.02 195.47              
+190  195.47 197.12  MARILYN:    
+191  197.12 198.73              
+192  198.73 202.00              
+193  202.00 204.69              
+194  204.69 206.80   ROY:       
+195  206.80 208.14              
+196  208.14 208.70  MARILYN:    
+197  208.70 209.24   PETE:      
+198  209.24 209.89              
+
+                                                  text  
+179        because they didn't know= what was on them.  
+180                                         .. <FOOD @  
+181                                    ... Yeah FOOD>.  
+182  ... They weren't craw=ling with disgusting pes...  
+183                         ... Conceptual pesticides.  
+184                                ... <P Whatever P>.  
+185                        ... Pesticides of the mind.  
+186      ... <P<% What should I fry this fish in %>P>.  
+187   ... <FOOD Could I FOOD> ... beg your indulgence,  
+188                                       ... my dear?  
+189            ... That I might slip in past you here?  
+190                                 ... <X You can X>.  
+191                                ... <VOX Sure VOX>.  
+192                                          ... Okay,  
+193   so did we decide we do or do not want potatoe=s.  
+194                ... I think potatoes are excessive.  
+195                  I think we have enough food here.  
+196                                         .. ~Peter?  
+197                                            ... Um,  
+198                                    .. that's fine.  
+              time    speaker                                        text
+661  701.71 702.01                                                 yet5].
+662  701.76 702.76   ROY:                                   all5] of the,
+663  702.76 703.16                                              you know,
+664  703.16 704.18                                           watery-eyed,
+665  704.18 704.93                                            .. new age,
+666  704.93 706.00                                                ... uh,
+667  706.00 707.31                                      various theories,
+668  707.31 707.77                                             ... [of --
+669  707.69 708.08  MARILYN:                                       [Gaia,
+670  708.08 708.90                                   and all that stuff].
+671  708.08 709.78   ROY:      .. of how it might] .. not .. be that way.
+672  709.78 710.08   PETE:                                         Right.
+673  710.08 710.93   ROY:                             ... <FOOD You know,
+674  710.93 711.10                                                 .. so,
+675  711.10 711.43   PETE:                                        Unhunh.
+676  711.43 713.14   ROY:                                  ... forget it,
+677  713.14 713.56                                          .. forget it,
+678  713.56 714.09                                        .. [forget] it.
+679  713.53 713.78   PETE:                                       [Right].
+680  714.09 715.00   ROY:                         ... We're fucked FOOD>.
+                                   time    speaker  \
+1049  000000000 000000000 $ LAUNDRYMAT?              
+1050                    1071.66 1073.61              
+1051                    1073.61 1074.76              
+1052                    1074.76 1076.26  MARILYN:    
+1053                    1076.26 1076.96              
+1054                    1076.96 1077.96              
+1055                    1077.96 1078.96   ROY:       
+1056                    1078.96 1079.96  MARILYN:    
+1057                    1079.96 1080.21   PETE:      
+1058                    1080.21 1081.71              
+1059                    1081.71 1083.96              
+1060                    1083.96 1085.46  MARILYN:    
+1061                    1085.46 1086.77              
+1062                    1086.77 1087.32              
+1063                    1087.32 1088.17              
+1064                    1088.17 1088.47              
+1065                    1088.47 1090.02              
+1066                    1090.02 1091.32              
+1067                    1091.32 1092.57              
+1068                    1091.44 1091.79   PETE:      
+
+                                                   text  
+1049                                                     
+1050               .. and they just ... dump the water,  
+1051                ... from that <X and everything X>.  
+1052              .. <FOOD Well laundry's the best way,  
+1053                                       and showers.  
+1054                                  .. I guess FOOD>.  
+1055                                 ... The best way=,  
+1056                              .. To get gray water.  
+1057                                             Right.  
+1058           Well I would think you wouldn't want to,  
+1059  .. <X think X> what might go down in the sink ...  
+1060                     ... You wouldn't want to what?  
+1061                                          ... Well,  
+1062                                       ... I guess,  
+1063                              .. I guess it's more,  
+1064                                           that- --  
+1065   .. It's not that you don't want it on your lawn,  
+1066        it's that you don't want it sitting around.  
+1067                  .. [Before] it goes on your lawn.  
+1068                                           [Right].  
+                 time    speaker                                         text
+1162  1179.72 1179.97  MARILYN:                                       [Yeah].
+1163  1179.97 1181.59   PETE:                                       ... Okay.
+1164  1181.59 1183.05  MARILYN:                      ... [Yeah and split em].
+1165  1181.82 1182.42   ROY:                                          [Okay].
+1166  1183.05 1184.55  MARILYN:   ... <VOX<X You didn't even split em X>VOX>.
+1167  1184.55 1186.50   PETE:                                  ... Pre-split.
+1168  1186.50 1187.97  MARILYN:                                     ... Yeah,
+1169  1187.97 1188.77                                    those are left over.
+1170  1188.77 1189.32                                     They're probably --
+1171  1189.32 1189.62                                                .. Yeah,
+1172  1189.62 1190.42                                    there might be mold.
+1173  1190.42 1191.17                             I think they're <X okay X>.
+1174  1191.17 1191.64                                                     [@@
+1175  1191.20 1191.45   PETE:                                            [Oh,
+1176  1191.45 1191.76                                                  @fine.
+1177  1191.76 1192.41                                                      @@
+1178  1192.41 1193.62  MARILYN:                                         @@@@@
+1179  1193.62 1194.12   PETE:                                        (H) Mm=.
+1180  1194.12 1195.82                                                   @@@@]
+1181  1194.62 1194.92  MARILYN:                                          Mm=.
+SBC004.trn
+              time    speaker                                   text
+545  468.80 469.94                           there's a [privacy act,
+546  469.35 470.65  CAROLYN:                               [@@@ (H)]
+547  469.94 471.35   SHARON:           and I can't acce]ss the file.
+548  471.35 471.97                           (H) <<THUMP>> li[2ke2],
+549  471.83 472.67  CAROLYN:                              [2@G2]o=d.
+550  472.67 475.18   SHARON:   what kind of fucking @law [3is tha=t.
+551  474.32 475.62   KATHY:                               [3@@@@@@3]
+552  475.18 477.07   SHARON:       (H)3] that you're gonna tell me=,
+553  477.07 477.32                                             that,
+554  477.32 477.63                                         you know,
+555  477.63 478.82                    this [kid might] have to wait,
+556  477.87 478.17  CAROLYN:                                   [(H)]
+557  478.82 480.12   SHARON:               another month and a half,
+558  480.12 481.42                             to e- have any lunch,
+559  481.42 483.43                     (H) Because you can't access,
+560  483.43 483.80                                      .. you know,
+561  483.80 484.72                                     .. her fo=rm?
+562  484.72 485.42  CAROLYN:                             ... [(TSK)]
+563  485.22 486.12   SHARON:                     [What]'s the deal=.
+564  486.12 487.17   KATHY:                        [2Unbelievable2].
+              time   speaker                                          text
+614  535.19 536.94                           like I find out accidentally,
+615  536.94 537.94                                from the other teachers.
+616  537.94 538.69                                          The principal.
+617  538.69 540.19                           ... (H) doesn't even tell me.
+618  540.19 541.49                             First she hires me n- like,
+619  541.49 543.64                     .. the Friday before school starts.
+620  543.64 546.19            (H) ... And expects me to get my room ready,
+621  546.19 547.34                                      ... (H) and then=,
+622  547.34 549.79                    ... and then I find out on Thursday,
+623  549.79 550.83                            in the first week of school,
+624  550.83 552.29                              that I might lose my jo=b.
+625  552.29 553.19  KATHY:                            .. Yeah you told me.
+626  553.19 553.77  SHARON:                                   Come Friday.
+627  553.77 554.14                                                   Yeah.
+628  554.14 555.44                                                ... and,
+629  555.44 556.29                                            .. and then,
+630  556.29 557.94                            th- .. so I come into class,
+631  557.94 560.04                               ... and they've put like,
+632  560.04 561.62             .. all these third-grade students in there.
+633  561.62 562.49                              Did I tell you about that?
+SBC005.trn
+              time   speaker  \
+162  236.41 237.26  DARRYL:    
+163  236.41 236.96  PAMELA:    
+164  236.96 237.51             
+165  237.51 239.40             
+166  239.40 241.32             
+167  241.32 243.42             
+168  243.42 245.17  DARRYL:    
+169  243.42 245.02  PAMELA:    
+170  245.17 245.32  DARRYL:    
+171  245.32 247.77             
+172  245.64 247.63  PAMELA:    
+173  247.77 247.82  DARRYL:    
+174  247.78 247.97  PAMELA:    
+175  247.97 250.87             
+176  250.87 252.32             
+177  252.32 256.89             
+178  256.89 259.91             
+179  259.91 262.16             
+180  262.16 263.16             
+181  263.16 265.54             
+
+                                                  text  
+162                           when you haven't died2].  
+163                                            It has,  
+164                                          it2] has,  
+165                      it has stories in there from,  
+166                            (H) from the Zen= an=d,  
+167          .. f- it just pools on other different --  
+168                Wel[l the Zen can be bullshit too].  
+169                          [% .. different sources].  
+170                                            I mean,  
+171  [whoever wrote the book of Zen wasn't dead eit...  
+172          [Well <F it .. might all= be bullshit F>,  
+173                                             @(Hx)]  
+174                                               but,  
+175  you g- you g- you've gotta] pull these ideas f...  
+176                        and what's gone on before=.  
+177           ... (H) Th- th- %the things I know most,  
+178  about life and death come from .. from= .. my ...  
+179        ... (H) And having gone through all that %.  
+180                                      ... With her.  
+181                   (H) And then it was interesting,  
+SBC006.trn
+SBC007.trn
+                time   speaker  \
+698  1318.27 1318.84  ALICE:     
+699  1318.84 1320.57  MARY:      
+700  1320.57 1320.99  ALICE:     
+701  1320.78 1323.64  MARY:      
+702  1323.64 1325.57  ALICE:     
+703  1325.57 1326.19             
+704  1325.68 1326.50  MARY:      
+705  1326.50 1327.04             
+706  1327.04 1329.56             
+707  1329.56 1330.05  ALICE:     
+708  1330.05 1332.59  MARY:      
+709  1332.59 1333.73             
+710  1333.73 1335.91  ALICE:     
+711  1335.91 1339.06  MARY:      
+712  1339.06 1339.89             
+713  1339.89 1340.72             
+714  1340.72 1341.58             
+715  1341.58 1342.92             
+716  1342.92 1344.37  ALICE:     
+717  1344.37 1348.72  MARY:      
+
+                                                  text  
+698                                           ... Mhm.  
+699                            ... Take out that cyst?  
+700                                             [Mhm].  
+701  [(H)] ... (SWALLOW) And it's really screwed up...  
+702                                ... menstrual p- --  
+703                                           [cycle]?  
+704                                       [her cy]cle,  
+705                                              her=,  
+706                             ... her= ... hormones?  
+707                                            Unhunh.  
+708  (H) And they said that she might have to get p...  
+709                         just to straighten it out.  
+710                                     ... <WH @@ WH>  
+711                                   ... (H)= ... So,  
+712                              .. and then she goes,  
+713                                  ... <Q so tell --  
+714                                     tell !Deon Q>.  
+715                            And she really laughed.  
+716                                           (H) (Hx)  
+717  ... (TSK) I don't know if !Tammy would be too ...  
+                time   speaker  \
+714  1340.72 1341.58             
+715  1341.58 1342.92             
+716  1342.92 1344.37  ALICE:     
+717  1344.37 1348.72  MARY:      
+718  1348.72 1355.13             
+719  1355.13 1355.77             
+720  1355.77 1357.06             
+721  1357.06 1358.14  ALICE:     
+722  1358.14 1360.83  MARY:      
+723  1360.83 1362.86  ALICE:     
+724  1362.86 1368.07  MARY:      
+725  1368.07 1370.73  ALICE:     
+726  1370.73 1373.30  MARY:      
+727  1373.30 1376.13             
+728  1376.13 1378.73  ALICE:     
+729  1378.73 1379.79  MARY:      
+730  1379.79 1379.79             
+
+                                                  text  
+714                                     tell !Deon Q>.  
+715                            And she really laughed.  
+716                                           (H) (Hx)  
+717  ... (TSK) I don't know if !Tammy would be too ...  
+718  ... (SWALLOW) Seems to me that she's trying to...  
+719                                               and,  
+720                               ... pursue a family.  
+721                                         ... Tammy?  
+722                       ... (TSK) What do you think.  
+723                             ... I don't know (Hx).  
+724  ... (TSK) Or do you think it might be a matter...  
+725     ... I think it's a convenience for both of em.  
+726                                         ... Yeah=?  
+727                                         ... Yeah=?  
+728           ... It's also a convenience for !Cookie.  
+729                                      ... Oh yeah=.  
+730                                                ...  
+SBC008.trn
+              time    speaker  \
+717  713.53 714.08              
+718  714.08 714.54              
+719  714.54 715.63              
+720  715.63 716.13              
+721  716.13 717.57              
+722  717.57 718.93              
+723  718.93 721.15  REBECCA:    
+724  721.15 724.28              
+725  721.26 721.56   RICKIE:    
+726  724.10 724.71              
+727  724.71 727.46  REBECCA:    
+728  727.06 727.46   RICKIE:    
+729  727.41 727.76              
+730  727.76 728.26  REBECCA:    
+731  728.26 729.26              
+732  729.26 729.56              
+733  729.56 732.11              
+734  732.11 733.06              
+735  733.06 734.06              
+736  734.06 735.26              
+
+                                                  text  
+717                                      go like this,  
+718                                  you know PAPER>>,  
+719                              before anyone got on,  
+720                                          and wait,  
+721                   and then just do the same thing,  
+722           <X until X> I had to get off at my stop.  
+723       .. (TSK)(H) Tell .. the jury about that too,  
+724  be[cause] tha=t indicates that he knew what he...  
+725                                              [Hm].  
+726                                                ...  
+727  and if there was a chance that any man .. migh...  
+728                                                ...  
+729                                             Mhm3].  
+730                                      (H) You know,  
+731                                I had another case,  
+732                                                or,  
+733  .. I have a .. pr- report from another case wh...  
+734                                          (H)= u=m,  
+735                                      ... he wa- --  
+736                              he was crouched down,  
+                 time    speaker  \
+1211  1219.05 1219.32              
+1212  1219.05 1220.03  REBECCA:    
+1213  1220.03 1221.14              
+1214  1220.23 1220.48   RICKIE:    
+1215  1221.14 1223.64  REBECCA:    
+1216  1223.64 1224.69              
+1217  1224.69 1225.54              
+1218  1225.54 1226.74              
+1219  1226.74 1228.67              
+1220  1228.67 1228.99   RICKIE:    
+1221  1228.99 1230.04  REBECCA:    
+1222  1230.04 1230.49              
+1223  1230.49 1231.69              
+1224  1231.49 1231.69   RICKIE:    
+1225  1231.69 1233.64  REBECCA:    
+1226  1233.64 1234.44              
+1227  1234.44 1235.59              
+1228  1235.59 1236.54              
+1229  1236.54 1237.99              
+1230  1237.99 1238.34   RICKIE:    
+
+                                                   text  
+1211                                    [3<P Okay P>3].  
+1212                          [3He'll be3] very polite,  
+1213                                      (H)[4=4] u=m,  
+1214                                   [4<WH Mhm WH>4],  
+1215     ... (TSK) he's going to try and focus more on,  
+1216                                       (H) ... uh=,  
+1217                                  .. discrepancies,  
+1218                  like if you testify to one thing,  
+1219  and there's something written differently in t...  
+1220                                            Unhunh.  
+1221                                He might say well=,  
+1222                                       .. you know,  
+1223                                     ... in [your],  
+1224                                          [(SNIFF)]  
+1225                   in the report it says that you=,  
+1226                                            .. um=,  
+1227                                      ... you know,  
+1228                                   .. he sat dow=n,  
+1229                         ... right across from you,  
+1230                                             [Mhm].  
+SBC009.trn
+SBC010.trn
+               time   speaker  \
+996   851.81 852.50  PHIL:      
+997   852.50 854.37             
+998   854.37 854.87  BRAD:      
+999   854.87 855.54             
+1000  855.38 855.80  BRAD:      
+1001  855.80 856.25             
+1002  856.25 858.29             
+1003  857.54 858.39  BRAD:      
+1004  858.39 859.14  PHIL:      
+1005  859.14 860.74             
+1006  860.74 864.04             
+1007  864.04 865.54             
+1008  865.39 865.67  BRAD:      
+1009  865.67 867.07             
+1010  867.07 867.29             
+1011  867.18 870.73  PHIL:      
+1012  870.73 872.18             
+1013  870.83 872.88  BRAD:      
+1014  872.88 873.18             
+1015  873.18 875.08             
+
+                                                   text  
+996                                       I would like,  
+997                    (H) ideally XX I'd want em both.  
+998                                            .. Yeah.  
+999                                         ... [Yeah].  
+1000                                        [You know].  
+1001                                            .. And,  
+1002                                  ... [I'm hoping],  
+1003                                    [(H) Yeah I] --  
+1004                                   what I'm gonna -  
+1005           .. what I'm anticipating doing is %uh --  
+1006   this retreat .. might urge people .. (H) to say,  
+1007      I'm not interested in doing that much [work].  
+1008                                            [Yeah].  
+1009                            ... And so I'm getting,  
+1010                                            [yeah].  
+1011  [(H)] And .. it might just f- ... get .. like ...  
+1012                        .. [I mean I like !Kay XX],  
+1013              [(TSK) (H) See !Nancy was] going off.  
+1014                                             She --  
+1015         she @told @me she was going off this year.  
+               time   speaker  \
+1001  855.80 856.25             
+1002  856.25 858.29             
+1003  857.54 858.39  BRAD:      
+1004  858.39 859.14  PHIL:      
+1005  859.14 860.74             
+1006  860.74 864.04             
+1007  864.04 865.54             
+1008  865.39 865.67  BRAD:      
+1009  865.67 867.07             
+1010  867.07 867.29             
+1011  867.18 870.73  PHIL:      
+1012  870.73 872.18             
+1013  870.83 872.88  BRAD:      
+1014  872.88 873.18             
+1015  873.18 875.08             
+1016  875.08 876.43             
+1017  876.43 876.68  PHIL:      
+1018  876.68 877.61  BRAD:      
+1019  877.61 879.43             
+1020  879.43 879.98             
+
+                                                   text  
+1001                                            .. And,  
+1002                                  ... [I'm hoping],  
+1003                                    [(H) Yeah I] --  
+1004                                   what I'm gonna -  
+1005           .. what I'm anticipating doing is %uh --  
+1006   this retreat .. might urge people .. (H) to say,  
+1007      I'm not interested in doing that much [work].  
+1008                                            [Yeah].  
+1009                            ... And so I'm getting,  
+1010                                            [yeah].  
+1011  [(H)] And .. it might just f- ... get .. like ...  
+1012                        .. [I mean I like !Kay XX],  
+1013              [(TSK) (H) See !Nancy was] going off.  
+1014                                             She --  
+1015         she @told @me she was going off this year.  
+1016                                    (H) And she uh,  
+1017                                                (H)  
+1018                              and !Kay convinced --  
+1019    .. said well !Nancy you can't leave right away,  
+1020                                            and uh,  
+SBC011.trn
+           time   speaker                                               text
+46  62.83 64.08                                    and she followed through,
+47  64.13 65.38                                  and told about her husband,
+48  65.38 66.81                                            ... (H) you know?
+49  66.81 68.24  >ENV:                                          ... ((DOOR))
+50  68.24 71.07  DORIS:        Not necessarily that she would approve of it,
+51  71.07 73.60                   ... but at least she wasn't disapproving &
+52  73.60 74.03  ANGELA:                                            .. Yeah.
+53  74.03 74.48  DORIS:                                          & .. of it.
+54  74.48 74.78  ANGELA:                                               Yeah.
+55  74.78 76.61  DORIS:                                 ... (SNIFF) An=d uh,
+56  76.61 78.31                             ... (H) course !Duvall might- --
+57  78.31 78.79                                                 %= And I- --
+58  78.79 80.34                                   .. I cannot get over this.
+59  80.43 81.29                                                ... That man.
+60  81.29 82.42                                          .. I really cannot.
+61  82.42 83.46                                         .. (H) And you know,
+62  83.46 84.96                               .. he must have been thinking,
+63  84.96 88.24            ... when he said he wasn't a political appointee,
+64  88.24 93.52            (H) he must have been %%associating .. (H) his...
+65  93.52 93.52  >ENV:                                                   ...
+              time   speaker                               text
+184  246.12 246.88  ANGELA:                        .. (H) Well,
+185  246.88 247.27                                        yeah,
+186  247.27 248.31                       you don't [like that].
+187  247.79 248.33  DORIS:                           [(THROAT)]
+188  248.33 248.92  ANGELA:                       Do you but --
+189  248.92 249.43  DORIS:                           .. (H) No,
+190  249.43 250.46                       It chokes me to death.
+191  250.46 250.81  ANGELA:                          [It's-] --
+192  250.73 251.38  DORIS:                              [@@@]@@
+193  251.38 252.05  ANGELA:                         It's there,
+194  252.05 253.23                      might as well smoke it.
+195  253.23 253.82  DORIS:                        ... <X Oh X>.
+196  253.82 254.59  ANGELA:                              .. @@@
+197  254.59 256.41  DORIS:                     ... (H) No good.
+198  256.41 257.37  ANGELA:                         .. No good.
+199  257.37 260.07                                    ... [Uh],
+200  258.72 263.43  DORIS:                          [(TSK) (H)]
+201  263.43 264.67  ANGELA:               ... how's !Ted doing.
+202  264.67 267.71  SAM:      ... (H) He's % keeping very busy,
+203  267.71 270.22            he's on mostly= uh evening hours,
+              time   speaker                                       text
+435  603.98 604.64  DORIS:                               I know better.
+436  604.64 605.60                                           .. (H) So,
+437  605.60 606.69                                   ... I thought th-,
+438  606.69 608.23                   .. I just won't ... order from em.
+439  608.23 608.54                                              I m- --
+440  608.59 609.73                               ... That's .. foolish.
+441  609.73 611.33  SAM:               (H) We better go up to Dillards,
+442  611.33 613.42            and see if they still have those muumuus.
+443  613.42 614.78  DORIS:                  ... You mean up to Phoenix?
+444  614.78 615.40  SAM:                                       ... No=,
+445  615.40 616.71                     well- they might have them here,
+446  616.71 617.33                                             in town.
+447  617.33 618.46  DORIS:                        .. (H) I [don't know.
+448  618.07 618.74  SAM:                                 [At Dillards].
+449  618.74 618.94  DORIS:                                  .. They] --
+450  618.94 619.83                               they were sure pretty.
+451  619.83 621.89                                     ... Pretty c- --
+452  621.89 622.85                                    .. pretty colors.
+453  622.85 624.16                       .. [Some of] em were [2dark2],
+454  623.00 623.49  X:                                          [Yeah].
+              time   speaker  \
+592  766.84 767.43  SAM:       
+593  767.38 767.95  DORIS:     
+594  767.90 769.91             
+595  769.91 772.40             
+596  772.40 773.84             
+597  773.84 774.01             
+598  774.01 775.03             
+599  775.03 776.23             
+600  776.23 778.25             
+601  778.25 779.55  ANGELA:    
+602  779.55 782.49             
+603  782.49 785.75             
+604  785.75 787.31  SAM:       
+605  785.98 786.87  DORIS:     
+606  786.97 787.36  ANGELA:    
+607  787.36 787.70  DORIS:     
+608  787.53 788.90  SAM:       
+609  787.80 788.46  DORIS:     
+610  788.73 789.79             
+611  789.79 791.76             
+
+                                                  text  
+592                                             (H)[=]  
+593                                         [I think].  
+594                         ... (H) I think that's it.  
+595                                       ... But uh=,  
+596                                      ... (H) I- --  
+597                                              uh --  
+598                             we've been over there,  
+599                           and we've seen em go in,  
+600         ... and all they're doing is just walking.  
+601                                           ... Mhm.  
+602            ... (H) (Hx) They might be good people,  
+603   we could (H) cultivate to .. hunt things for us.  
+604                               ... @[@@@@][2@ (H)2]  
+605                                            [@@@@@]  
+606                                             [2@@2]  
+607                                           [3Yeah.  
+608       [3<@ You mean look in the3] window @> [4@4].  
+609                                    Now that's3] --  
+610                                        [4that's...  
+611                                     .. @[5@@@@@@5]  
+SBC013.trn
+                 time   speaker  \
+1472  1069.33 1069.58  KEN:       
+1473  1069.58 1070.63             
+1474  1069.38 1069.88  KENDRA:    
+1475  1070.83 1071.33  KEN:       
+1476  1070.93 1072.83  MARCI:     
+1477  1071.33 1071.83  KEN:       
+1478  1072.83 1073.27  KENDRA:    
+1479  1073.27 1074.15             
+1480  1074.15 1074.95             
+1481  1074.80 1076.75  WENDY:     
+1482  1074.95 1075.45  KENDRA:    
+1483  1076.75 1077.05  WENDY:     
+1484  1077.05 1078.25             
+1485  1077.55 1078.02  KEN:       
+1486  1078.02 1079.37  KEVIN:     
+1487  1078.24 1078.69  KEN:       
+1488  1079.22 1079.77  KENDRA:    
+1489  1079.47 1079.77  WENDY:     
+1490  1079.47 1080.57  KEN:       
+1491  1080.57 1081.27             
+
+                                                   text  
+1472                                                no,  
+1473                        your salary] [2will be2] __  
+1474                                            Ha ha].  
+1475                             <X go [3over eight_ __  
+1476          [3you don't make half3] of what he makes.  
+1477                            It'll be way high X>3].  
+1478                                                No,  
+1479                            by virtue of making_ __  
+1480                                  .. being fe[male,  
+1481             [Just go in some]time with a machin...  
+1482                                          I might].  
+1483                                               and,  
+1484                          ... [hold em all] [2up2].  
+1485                                        [(Hx)][2=2]  
+1486                    [2Dis2][3gruntled3] postal w...  
+1487                                          [3Yeah3].  
+1488                           [4Let m4]e [5tell you5].  
+1489                                              [5@5]  
+1490                      [5Tell em5] to be part of it.  
+1491                                           (THROAT)  
+                 time   speaker  \
+1891  1356.87 1359.62             
+1892  1357.17 1357.87  WENDY:     
+1893  1357.87 1358.37  KEVIN:     
+1894  1359.62 1360.75  KENDRA:    
+1895  1360.75 1363.20             
+1896  1363.20 1364.82  WENDY:     
+1897  1364.26 1365.31  KEVIN:     
+1898  1365.31 1365.91  WENDY:     
+1899  1365.91 1367.47  MARCI:     
+1900  1367.47 1368.36  WENDY:     
+1901  1368.36 1371.40  KENDRA:    
+1902  1371.40 1373.45  MARCI:     
+1903  1371.87 1372.22  KENDRA:    
+1904  1372.22 1373.55             
+1905  1373.55 1374.09  KEVIN:     
+1906  1373.55 1374.09  MARCI:     
+1907  1374.09 1374.59  KEVIN:     
+1908  1374.09 1375.23  KENDRA:    
+1909  1375.23 1375.84  KEVIN:     
+1910  1375.59 1376.21  KENDRA:    
+
+                                                   text  
+1891  .. [You're not gonna have] [2any2]= ... salvat...  
+1892                                               [@@]  
+1893                                       [2(THROAT)2]  
+1894                                    Any= relief @>.  
+1895                 ... <FOOD You're in trouble FOOD>.  
+1896                           ... [<FOOD With a kook].  
+1897                       [% .. !Kelly] will be there.  
+1898                                      .. Mhm FOOD>.  
+1899                                  ... That's right.  
+1900                       We'll just leave him and go.  
+1901                             ... You might have to.  
+1902              ... [You and !Kelly will go to z_] __  
+1903                                        [What k_ __  
+1904                                .. Is this ice=] __  
+1905                                            [2(H)2]  
+1906                                         [2Varna2].  
+1907                                           [3(Hx)3]  
+1908                       [3What's the3] .. ice cream.  
+1909                                         .. [4(H)4]  
+1910                              [4Is this4] ice milk?  
+SBC014.trn
+SBC015.trn
+SBC016.trn
+     time_start  time_end speaker  \
+971     940.780   941.310           
+972     941.415   941.760           
+973     941.490   941.725   BRAD:   
+974     941.725   942.790           
+975     941.835   942.225  TAMMY:   
+976     942.785   943.685   BRAD:   
+977     942.825   943.465  TAMMY:   
+978     943.680   944.720           
+979     944.720   945.140           
+980     945.140   946.405           
+981     946.405   948.795           
+982     948.795   949.140           
+983     949.135   950.725           
+984     950.385   950.765   BRAD:   
+985     950.795   951.485  TAMMY:   
+986     950.960   951.245   BRAD:   
+987     951.245   952.020           
+988     951.910   952.465  TAMMY:   
+989     951.930   952.520   BRAD:   
+990     952.530   952.980           
+
+                                              text  
+971                                      .. Right.  
+972                                   ... [Right].  
+973                                        [Okay],  
+974             that's [2what throws2] people off,  
+975                                      [2Yeah2].  
+976                           .. [3all the3] time.  
+977                                      [3Yeah3].  
+978                            .. (H) I just= um=,  
+979                                     .. I'll --  
+980          .. I'll work on getting used to that.  
+981  .. But I just might go with the (H) single --  
+982                                   .. you know,  
+983        the one <@ that I have to turn it over,  
+984                                       [<HI Oh,  
+985                                       [I mean,  
+986                                    % you know,  
+987                               that's fine HI>.  
+988                               (H) you know @>,  
+989                                   That's fine.  
+990                                           Um=,  
+SBC017.trn
+     time_start  time_end   speaker  \
+825     846.755   848.355             
+826     848.330   848.730  MICHAEL:   
+827     848.360   848.955      JIM:   
+828     848.955   850.250             
+829     850.250   851.710             
+830     851.710   853.995             
+831     852.625   853.370  MICHAEL:   
+832     853.370   853.995             
+833     853.995   854.360             
+834     853.995   855.015      JIM:   
+835     854.360   857.375             
+836     856.645   857.160      JIM:   
+837     857.160   860.045             
+838     860.045   862.000             
+839     862.000   862.860             
+840     862.485   862.860  MICHAEL:   
+841     862.860   863.135      JIM:   
+842     863.135   864.995             
+843     864.995   866.255             
+844     866.255   867.155             
+
+                                                  text  
+825                              if w- if if we mi=nd,  
+826                                                [@]  
+827                                          [(H)] uh,  
+828                      if there's a chance you know,  
+829                .. cause they didn't know for sure,  
+830  whether .. it would de[stroy the universe or not.  
+831                                          [<@ Yeah.  
+832                                     (H) Or not @>.  
+833                                                  @  
+834                                          (H) And],  
+835  (H) It might] have started a chain reaction th...  
+836                                  [2That's right2].  
+837  And it might very well still have started that...  
+838    And that it's all happening in fractal country,  
+839                                (H) and it [has] --  
+840                                             [Aah].  
+841                                            and it,  
+842                    and it's manifesting itself in,  
+843                                 (H) in disharmony,  
+844                                            (H) uh,  
+     time_start  time_end   speaker  \
+827     848.360   848.955      JIM:   
+828     848.955   850.250             
+829     850.250   851.710             
+830     851.710   853.995             
+831     852.625   853.370  MICHAEL:   
+832     853.370   853.995             
+833     853.995   854.360             
+834     853.995   855.015      JIM:   
+835     854.360   857.375             
+836     856.645   857.160      JIM:   
+837     857.160   860.045             
+838     860.045   862.000             
+839     862.000   862.860             
+840     862.485   862.860  MICHAEL:   
+841     862.860   863.135      JIM:   
+842     863.135   864.995             
+843     864.995   866.255             
+844     866.255   867.155             
+845     867.155   867.675             
+846     867.675   870.175             
+
+                                                  text  
+827                                          [(H)] uh,  
+828                      if there's a chance you know,  
+829                .. cause they didn't know for sure,  
+830  whether .. it would de[stroy the universe or not.  
+831                                          [<@ Yeah.  
+832                                     (H) Or not @>.  
+833                                                  @  
+834                                          (H) And],  
+835  (H) It might] have started a chain reaction th...  
+836                                  [2That's right2].  
+837  And it might very well still have started that...  
+838    And that it's all happening in fractal country,  
+839                                (H) and it [has] --  
+840                                             [Aah].  
+841                                            and it,  
+842                    and it's manifesting itself in,  
+843                                 (H) in disharmony,  
+844                                            (H) uh,  
+845                                             .. in,  
+846      (H) .. in the .. deterioration of the planet.  
+     time_start  time_end   speaker  \
+844     866.255   867.155             
+845     867.155   867.675             
+846     867.675   870.175             
+847     870.175   871.670             
+848     871.670   872.885             
+849     872.885   873.335             
+850     872.885   873.335  MICHAEL:   
+851     873.275   873.815      JIM:   
+852     873.820   875.635             
+853     875.635   876.235             
+854     875.785   878.055  MICHAEL:   
+855     878.055   879.880             
+856     878.320   879.280      JIM:   
+857     879.280   882.190             
+858     882.190   882.880             
+859     882.880   883.485             
+860     883.485   885.500             
+861     885.500   886.450             
+862     886.450   888.665             
+863     888.665   889.030  MICHAEL:   
+
+                                                  text  
+844                                            (H) uh,  
+845                                             .. in,  
+846      (H) .. in the .. deterioration of the planet.  
+847                 We're all worried about the ozone,  
+848                    we're all worried about the uh,  
+849                                              [(H)]  
+850                                              [Hm].  
+851                                               uh=,  
+852                      (H) th- cancer is everywhere,  
+853                                         (H) [uh=],  
+854   [so you're saying it] might have done the sa=...  
+855           but in [a sort of more roundabout way=].  
+856                        [it's just that the uni- --  
+857  except that the] universe is such a complex ph...  
+858                                 that it's so deep,  
+859                                      it's f=or- --  
+860             f- the fabric that we= are witnessing,  
+861                                through m- science,  
+862       and through any known ability to understand,  
+863                                              [Mm].  
+     time_start  time_end   speaker                                     text
+869     898.380   900.330                a sub sub sub [sub subatomic level,
+870     899.140   900.680  MICHAEL:    [it's gonna take a while to crumble].
+871     900.330   902.105      JIM:  (H)] that it'll take a while before it,
+872     902.105   902.435                                             .. it,
+873     902.435   903.520                                    (H) it r=eally,
+874     903.520   904.105                                      (H) you know,
+875     904.105   905.960                               .. vr- goes (ROAR)=,
+876     905.960   906.300                                          you know,
+877     906.300   907.770                        and [just r=]=ips it apart.
+878     906.635   907.050  MICHAEL:                                  [Yeah].
+879     907.770   908.445      JIM:                           it might take,
+880     908.445   910.030                             (H) ... it might take,
+881     910.030   911.000                                .. %a- a few th- --
+882     911.000   912.535               it might take .. five hundred years.
+883     912.535   913.515                               or a thousand years.
+884     913.405   913.840  MICHAEL:                                  [Yeah].
+885     913.515   914.360      JIM:                    [or] a hundred years.
+886     914.360   915.150                               or maybe it's be- --
+887     915.150   916.825                        w- maybe in v- fifty years.
+888     916.825   918.545                  (H) or it might never happen but,
+     time_start  time_end   speaker                                     text
+870     899.140   900.680  MICHAEL:    [it's gonna take a while to crumble].
+871     900.330   902.105      JIM:  (H)] that it'll take a while before it,
+872     902.105   902.435                                             .. it,
+873     902.435   903.520                                    (H) it r=eally,
+874     903.520   904.105                                      (H) you know,
+875     904.105   905.960                               .. vr- goes (ROAR)=,
+876     905.960   906.300                                          you know,
+877     906.300   907.770                        and [just r=]=ips it apart.
+878     906.635   907.050  MICHAEL:                                  [Yeah].
+879     907.770   908.445      JIM:                           it might take,
+880     908.445   910.030                             (H) ... it might take,
+881     910.030   911.000                                .. %a- a few th- --
+882     911.000   912.535               it might take .. five hundred years.
+883     912.535   913.515                               or a thousand years.
+884     913.405   913.840  MICHAEL:                                  [Yeah].
+885     913.515   914.360      JIM:                    [or] a hundred years.
+886     914.360   915.150                               or maybe it's be- --
+887     915.150   916.825                        w- maybe in v- fifty years.
+888     916.825   918.545                  (H) or it might never happen but,
+889     918.545   919.140                                        (H) it's --
+     time_start  time_end   speaker  \
+872     902.105   902.435             
+873     902.435   903.520             
+874     903.520   904.105             
+875     904.105   905.960             
+876     905.960   906.300             
+877     906.300   907.770             
+878     906.635   907.050  MICHAEL:   
+879     907.770   908.445      JIM:   
+880     908.445   910.030             
+881     910.030   911.000             
+882     911.000   912.535             
+883     912.535   913.515             
+884     913.405   913.840  MICHAEL:   
+885     913.515   914.360      JIM:   
+886     914.360   915.150             
+887     915.150   916.825             
+888     916.825   918.545             
+889     918.545   919.140             
+890     919.140   919.715             
+891     919.715   922.865             
+
+                                           text  
+872                                      .. it,  
+873                             (H) it r=eally,  
+874                               (H) you know,  
+875                        .. vr- goes (ROAR)=,  
+876                                   you know,  
+877                 and [just r=]=ips it apart.  
+878                                     [Yeah].  
+879                              it might take,  
+880                      (H) ... it might take,  
+881                         .. %a- a few th- --  
+882        it might take .. five hundred years.  
+883                        or a thousand years.  
+884                                     [Yeah].  
+885                       [or] a hundred years.  
+886                        or maybe it's be- --  
+887                 w- maybe in v- fifty years.  
+888           (H) or it might never happen but,  
+889                                 (H) it's --  
+890                                     to me=,  
+891  (H) tha=t was scientific irresponsibility.  
+     time_start  time_end   speaker  \
+878     906.635   907.050  MICHAEL:   
+879     907.770   908.445      JIM:   
+880     908.445   910.030             
+881     910.030   911.000             
+882     911.000   912.535             
+883     912.535   913.515             
+884     913.405   913.840  MICHAEL:   
+885     913.515   914.360      JIM:   
+886     914.360   915.150             
+887     915.150   916.825             
+888     916.825   918.545             
+889     918.545   919.140             
+890     919.140   919.715             
+891     919.715   922.865             
+892     922.865   923.960             
+893     923.960   925.420             
+894     925.420   925.980             
+895     925.980   927.615             
+896     927.615   928.335             
+897     928.335   928.795             
+
+                                           text  
+878                                     [Yeah].  
+879                              it might take,  
+880                      (H) ... it might take,  
+881                         .. %a- a few th- --  
+882        it might take .. five hundred years.  
+883                        or a thousand years.  
+884                                     [Yeah].  
+885                       [or] a hundred years.  
+886                        or maybe it's be- --  
+887                 w- maybe in v- fifty years.  
+888           (H) or it might never happen but,  
+889                                 (H) it's --  
+890                                     to me=,  
+891  (H) tha=t was scientific irresponsibility.  
+892                                   (H) A=nd,  
+893                w- without the knowledge of,  
+894                                   .. of f-,  
+895                 .. what fractals symbolize,  
+896                              at this point,  
+897                                      to me,  
+     time_start  time_end   speaker  \
+902     932.360   933.600             
+903     933.600   935.080             
+904     934.840   936.645  MICHAEL:   
+905     935.445   935.850      JIM:   
+906     936.270   936.645             
+907     936.645   936.970             
+908     936.970   938.395             
+909     938.395   939.635             
+910     939.635   941.755             
+911     939.775   940.180  MICHAEL:   
+912     941.755   943.720      JIM:   
+913     943.720   944.460             
+914     944.460   945.645             
+915     944.755   946.340  MICHAEL:   
+916     946.340   948.460             
+917     948.460   949.735      JIM:   
+918     949.735   950.725             
+919     950.725   953.270             
+920     953.270   954.700  MICHAEL:   
+921     954.700   955.470      JIM:   
+
+                                                  text  
+902                                           ... And,  
+903                        (H) with the sci[entif-] --  
+904  [fractals] could have [2made the de2]cision [3...  
+905                                            [2(H)2]  
+906                                            [3No3].  
+907                                                No.  
+908                 Without the knowledge of fractals.  
+909                      The decision was made easier.  
+910             [If frac]tals were known at that time,  
+911                                              [oh].  
+912   (H) there might have been a little more caution,  
+913                                 because there was,  
+914                         (H) [there's this window].  
+915                           [but fractals] don't uh,  
+916           .. don't imply any .. particular morals.  
+917                               (H) well they imply,  
+918                        no they don't imply morals,  
+919  but they do imply that there's more than the o...  
+920                        .. Well all math does that.  
+921                                           ... Uh=,  
+     time_start  time_end   speaker  \
+970    1006.515  1008.180             
+971    1007.695  1012.845             
+972    1007.695  1012.845  MICHAEL:   
+973    1012.845  1015.160      JIM:   
+974    1015.160  1015.560             
+975    1015.560  1017.675             
+976    1017.675  1018.615             
+977    1018.615  1019.315             
+978    1019.315  1020.570             
+979    1020.570  1021.740             
+980    1021.740  1022.910             
+981    1022.910  1024.170             
+982    1024.170  1024.585  MICHAEL:   
+983    1024.585  1026.595             
+984    1026.595  1027.755             
+985    1027.755  1029.320      JIM:   
+986    1029.320  1030.035             
+987    1030.035  1030.530             
+988    1030.530  1031.330             
+989    1031.330  1031.840             
+
+                                                  text  
+970               .. it's a it's a found pheno[menon].  
+971                                                     
+972  [(H)] Well it's not predictable if you apply r...  
+973            ... The subdivisions have to be random.  
+974                                    ... They ha- --  
+975             it has to .. have .. randomness to it.  
+976                                     (H) the order,  
+977                                  I don't think is,  
+978                                 ... is understood.  
+979                                           ... yet.  
+980                        .. I mean I might be wrong,  
+981                       but that's my understanding.  
+982                                                Hm.  
+983                            ... (TSK) (H) ... well,  
+984                                          I th=ink,  
+985                               <SMOKING that's why,  
+986                             .. they're calling it,  
+987                                     .. the equ- --  
+988                                they're calling it,  
+989                                             .. uh,  
+SBC018.trn
+Empty DataFrame
+Columns: [time_start, time_end, speaker, text]
+Index: []
+    time_start  time_end speaker  \
+39      49.015    49.555           
+40      49.785    50.405           
+41      50.635    50.950           
+42      50.950    52.235           
+43      52.235    53.905           
+44      53.905    54.620           
+45      54.620    55.815           
+46      55.815    56.375           
+47      56.335    59.930           
+48      59.965    60.565           
+49      60.565    63.325           
+50      63.325    64.480           
+51      64.480    65.510           
+52      65.510    66.810           
+53      66.810    67.960           
+54      67.960    69.145           
+55      71.250    72.070           
+56      72.070    72.320           
+57      72.320    73.435           
+58      73.435    75.045           
+
+                                                 text  
+39                                                um,  
+40                                             ... I,  
+41                                      ... You know,  
+42                       Since he's not vomiting now,  
+43           you can go ahead and feed him and stuff,  
+44                                          and see=,  
+45                                   ... how he does,  
+46                                            (H) Um,  
+47  hopefully the antibiotics will calm down any ....  
+48                                       ... that he,  
+49  h- that he might have gotten from all the bact...  
+50                                           (H)= um,  
+51                                   (TSK) but if he,  
+52                         if he doesn't get better=,  
+53                          ... or if he gets worse=,  
+54                       .. be sure and let us know=.  
+55                                ... (TSK) (H) well,  
+56                                            but- --  
+57                               Already by tomorrow,  
+58                 he should be feeling a lot better.  
+     time_start  time_end   speaker                                 text
+460     549.020   549.390                                       bye-bye.
+461     554.215   555.095                            ... (COUGH) (COUGH)
+462     556.905   557.130  LINDSEY:                             ... Gee,
+463     557.130   558.505            this is the one that was too young,
+464     558.505   559.270                          [and went back home].
+465     558.505   559.265    HEIDI:                             [X X X]?
+466     559.980   560.295   MARCIA:                         ... She's --
+467     560.295   561.070                               .. she's gonna=,
+468     561.070   561.575                                   talk to him,
+469     561.575   562.480                            and get back to me.
+470     567.005   568.270                      ... I imagine they might.
+471     574.790   576.140  LINDSEY:           ... <VOX Oh you've grow=n.
+472     577.025   578.075  KRISTEN:               He gets it just right,
+473     578.075   579.515            he's just getting his adult ... XX.
+474     580.965   582.305  LINDSEY:                         What a cuty.
+475     582.305   583.655                         [Oh you're beautiful].
+476     582.315   583.655  KRISTEN:                             [XXXXXX]
+477     584.235   585.535            ... <X Pretty unusual with that X>.
+478     585.535   586.065                                        .. XXXX
+479     586.065   587.490  LINDSEY:                       Hey beautiful?
+     time_start  time_end   speaker  \
+504     630.030   630.970  KRISTEN:   
+505     631.265   631.525   MARCIA:   
+506     632.165   632.815             
+507     632.020   632.515    HEIDI:   
+508     632.515   633.110             
+509     632.915   634.130   MARCIA:   
+510     634.015   634.365             
+511     635.110   635.415    HEIDI:   
+512     635.415   636.020             
+513     636.020   637.755             
+514     636.020   637.645  LINDSEY:   
+515     639.615   641.485   MARCIA:   
+516     640.930   641.945    HEIDI:   
+517     641.945   643.580  KRISTEN:   
+518     642.650   643.525    HEIDI:   
+519     643.525   643.890   MARCIA:   
+520     643.890   645.395    HEIDI:   
+521     645.395   647.735             
+522     647.735   651.165             
+523     653.695   654.805             
+
+                                                  text  
+504                                 [Gonna call back]?  
+505                                              Yeah.  
+506                           ... [I talked to #Carol,  
+507                                             [Okay,  
+508                                    how old is it]?  
+509                 and she's] gonna talk to #Richard,  
+510                                             and --  
+511                                          ... Okay,  
+512                                     just a moment.  
+513         [XX I'll let you talk to one of the vets].  
+514                  [I imagine they might go for it].  
+515  It's about the cheapest alternative [2in the w...  
+516                                      [2#Jeremia...  
+517             <VOX You stay right here [3with me=3].  
+518                               [3is on the phone3],  
+519                                              What.  
+520                          And they've got .. a dog,  
+521                              in about three weeks,  
+522  .. and she was dripping some blood .. Saturday...  
+523                ... He's wondering what it may be=,  
+SBC019.trn
+     time_start  time_end   speaker  \
+140     159.555   159.955             
+141     159.955   161.121      RON:   
+142     160.202   160.686    FRANK:   
+143     160.849   161.738             
+144     160.849   161.738             
+145     161.738   164.698             
+146     162.745   164.698    BRETT:   
+147     164.338   165.896      JAN:   
+148     165.896   166.279    BRETT:   
+149     166.279   166.854    FRANK:   
+150     166.854   167.837             
+151     167.837   168.747             
+152     168.747   169.490    BRETT:   
+153     169.490   170.089  MELISSA:   
+154     170.089   171.982             
+155     171.982   172.510             
+156     172.510   173.660             
+157     173.037   173.636    BRETT:   
+158     173.636   174.163  MELISSA:   
+159     173.804   174.546      JAN:   
+
+                                                  text  
+140                                            (BELCH)  
+141                        ... [I don't] think [2so2].  
+142                                             [and],  
+143                                                     
+144                             [2recorded2] the game.  
+145  ... I figured [3he'd be interested in hearing ...  
+146                               [3Excuse me=3][4=4].  
+147                              [4Well his4] mind'...  
+148                                     % ... (THROAT)  
+149                                  Well I know that.  
+150                       but it might just be fun t-,  
+151                               .. to listen to him.  
+152                                          <<SINGING  
+153                                  (H) One thing is,  
+154    never bring up politics with my grandpa #Hutch.  
+155                                           because,  
+156                    .. you'll get in a big family &  
+157                                          SINGING>>  
+158                                       & ar[gument,  
+159                                       [Excuse me].  
+      time_start  time_end   speaker  \
+1170    1208.815  1210.975    BRETT:   
+1171    1210.975  1212.080             
+1172    1211.405  1213.205  MELISSA:   
+1173    1212.575  1214.245    BRETT:   
+1174    1213.205  1214.100  MELISSA:   
+1175    1214.100  1217.030             
+1176    1217.030  1217.615    FRANK:   
+1177    1217.095  1217.850    BRETT:   
+1178    1217.850  1220.655  MELISSA:   
+1179    1219.885  1220.715    BRETT:   
+1180    1220.715  1222.090  MELISSA:   
+1181    1221.015  1222.145    BRETT:   
+1182    1222.150  1222.500  MELISSA:   
+1183    1222.485  1222.945             
+1184    1222.940  1224.650             
+1185    1224.650  1225.695             
+1186    1225.695  1226.700             
+1187    1226.575  1228.370             
+1188    1228.370  1229.830             
+1189    1229.830  1231.550             
+
+                                                   text  
+1170          (SNIFF) .. ts- your butt <@ falls asleep,  
+1171                             you try and [stand up,  
+1172              [(Hx) I have] this whole paragraph...  
+1173                                           XX @> --  
+1174                         and now that I look at it,  
+1175  there's a <<POUND +m=uch POUND>> better way of...  
+1176                                          [Just] --  
+1177                               [Well then] redo it.  
+1178    ... Because I put this [2big parenthesy here2]?  
+1179                            [2@ .. create stress2].  
+1180        .. Well what [3I might as well have done3],  
+1181               [3<X Create stress onto yourself ...  
+1182                                         cause see,  
+1183                                         .. I have,  
+1184        <<POUND>> <READ he awakened at the silence,  
+1185                      ... and he got to hear READ>,  
+1186                         .. this and this and this.  
+1187                        ... And I interrupted with,  
+1188         .. <READ he awakened at the silence READ>,  
+1189                               ... (Hx) parenthesy,  
+SBC022.trn
+     time_start  time_end speaker                                        text
+275     309.378   309.833                                              shoot.
+276     310.210   311.236                             ... just let United go.
+277     311.639   312.192                                      ... Hori[zon],
+278     311.937   312.192  LANCE:                                     [Yeah],
+279     312.192   312.998  RANDY:              you can't do nothing with him,
+280     312.998   314.015                        so just have him hold there.
+281     315.061   316.392                      ... So just go on to the next.
+282     316.392   316.929  LANCE:                                 (TSK) Okay.
+283     319.043   319.487  RANDY:                             ... Next thing,
+284     319.487   320.491                                 and do tell ground.
+285     321.274   322.733          ... He might be still on ground frequency,
+286     322.733   323.259                                       which [is] --
+287     322.944   323.306  LANCE:                                   [(SNIFF)]
+288     324.509   325.314  RANDY:                                 (H) ... uh,
+289     325.478   326.611                          .. usually not too likely,
+290     326.611   327.265                                            because,
+291     328.491   328.993                                     ... [you know],
+292     328.491   329.343  LANCE:                            [At that] point.
+293     329.343   329.822  RANDY:                              At that point,
+294     329.799   330.558                              [well he's] out there,
+     time_start  time_end speaker  \
+594     684.920   685.485  RANDY:   
+595     686.505   687.030  LANCE:   
+596     687.185   687.620  RANDY:   
+597     688.095   688.840  LANCE:   
+598     689.060   690.305           
+599     690.305   690.520           
+600     690.520   691.125           
+601     691.125   692.030           
+602     693.220   693.530           
+603     693.530   693.880           
+604     693.880   695.670           
+605     695.670   696.105           
+606     696.105   697.105           
+607     696.355   696.580  RANDY:   
+608     696.580   697.050           
+609     697.110   697.565  LANCE:   
+610     698.605   699.785           
+611     699.785   700.755           
+612     701.345   701.675           
+613     701.675   701.905  RANDY:   
+
+                                                  text  
+594                                       [AM-Flight].  
+595                                          it seems.  
+596                                           .. Yeah.  
+597                                     ... % I think.  
+598              .. It .. seems like that was the one,  
+599                                               but,  
+600                                    yeah AM-Flight,  
+601                       when they fly the later jet.  
+602                                            (H) Um,  
+603                                              yeah.  
+604  And I think I might have said for delta niners...  
+605                                          no delay,  
+606                      or some[thing like that and],  
+607                                             [Yeah.  
+608                                  I think you did].  
+609                                                @@@  
+610             ... And he was actually floating at --  
+611                          % the Jet Speed wasn't --  
+612                                          ... yeah.  
+613                                              Yeah,  
+SBC023.trn
+SBC024.trn
+     time_start  time_end    speaker  \
+314     612.355   612.725  JENNIFER:   
+315     612.840   613.800       DAN:   
+316     617.160   617.730              
+317     618.880   620.105  JENNIFER:   
+318     621.115   621.520       DAN:   
+319     621.520   621.950              
+320     621.950   622.190              
+321     622.190   624.330              
+322     624.925   625.480              
+323     625.545   625.840              
+324     625.840   627.560              
+325     627.560   628.900              
+326     628.900   630.460              
+327     631.550   631.805              
+328     631.805   632.530              
+329     633.395   634.335              
+330     634.605   634.945  JENNIFER:   
+331     634.945   635.625              
+332     640.570   640.750       DAN:   
+333     640.900   642.125              
+
+                                                  text  
+314                                            (H) Oh.  
+315                      You gotta go through Iceland.  
+316                                  ... There you go.  
+317               .. (H) I wonder if I can do it (Hx).  
+318                                       Twenty-o- --  
+319                                             .. no,  
+320                                       .. you're --  
+321  you're not gonna be able to get through twenty...  
+322                                 (H) You can get --  
+323                                       .. you c- --  
+324     you might be able to get the single one there,  
+325                        but I'd fortify down there,  
+326          because he's just gonna attack you again.  
+327                                  (H) .. What a- --  
+328                                        Look at me.  
+329                        ... Telling you what to do.  
+330                                          ..  Yeah,  
+331                                       look at you.  
+332                                         ... I'd --  
+333                          .. I'd put all your guys,  
+     time_start  time_end    speaker  \
+666    1346.256  1346.623  JENNIFER:   
+667    1347.025  1347.664              
+668    1346.682  1347.167       DAN:   
+669    1347.664  1348.658  JENNIFER:   
+670    1348.658  1348.918              
+671    1348.918  1350.539              
+672    1350.539  1351.426              
+673    1351.426  1353.106              
+674    1353.106  1354.525              
+675    1354.525  1356.477              
+676    1356.797  1358.394              
+677    1358.630  1360.784              
+678    1360.784  1361.257       DAN:   
+679    1361.257  1361.896              
+680    1361.884  1362.120              
+681    1362.097  1362.747  JENNIFER:   
+682    1362.747  1363.505              
+683    1363.315  1364.546       DAN:   
+684    1364.546  1366.226              
+685    1366.923  1367.326  JENNIFER:   
+
+                                                  text  
+666                                              Okay.  
+667                                (H) Now the] spade,  
+668                                         so now] --  
+669                          Now this is a tricky one,  
+670                                               now,  
+671                        If I have a high spade now,  
+672                                      I'd throw it,  
+673               (H) because I could take this trick,  
+674          and the h- my highest spade would be out.  
+675   Now I don't ever wanna take the queen of spades,  
+676  (H) high spades are dangerous because you migh...  
+677  queen of spades is a hard cr- card to get [rid...  
+678                                            [(H)...  
+679                                      .. yeah okay,  
+680                                           [I see].  
+681                             [Now I] don't have- --  
+682                          oh I do have a [2spade2].  
+683                 [2Well you're in a good2] posit...  
+684  because you've seen what everybody else has pl...  
+685                                         ... Right.  
+     time_start  time_end    speaker  \
+776    1446.837  1447.239       DAN:   
+777    1447.239  1448.386              
+778    1448.386  1450.066              
+779    1448.706  1448.978  JENNIFER:   
+780    1450.587  1451.332              
+781    1451.332  1452.231              
+782    1452.231  1453.036              
+783    1453.142  1454.988              
+784    1454.988  1457.141       DAN:   
+785    1457.141  1461.613              
+786    1462.322  1463.210  JENNIFER:   
+787    1465.233  1466.475              
+788    1466.747  1467.930              
+789    1468.451  1469.953              
+790    1470.639  1471.810              
+791    1473.183  1473.857              
+792    1474.863  1475.904              
+793    1475.904  1476.885              
+794    1476.885  1477.702              
+795    1477.702  1479.405              
+
+                                                  text  
+776                                           .. Okay.  
+777                               So pass three cards.  
+778                           So we [wanna] ... pa=ss,  
+779                                                [%]  
+780                                    .. (H) Alright.  
+781                                             Pa=ss,  
+782                               so we're gonna pass,  
+783                             the king of .. spades.  
+784                      King of ... puppy-dogs' feet.  
+785  ... @ ... (H) How come you don't pass the king...  
+786                                    .. (H) I might.  
+787                    ... I don't have any aces here.  
+788                     .. I'm gonna pass a low heart.  
+789             ... Just so they can't shoot the moon.  
+790                       (H) I got the ace of hearts,  
+791                                     ... Okay (Hx).  
+792                              ... (H) Two of clubs.  
+793                                     King of clubs.  
+794                                        Ace is out.  
+795                  So my queen is the highest there.  
+SBC029.trn
+     time_start  time_end speaker  \
+183      230.12    232.31           
+184      232.31    233.61           
+185      233.61    234.64           
+186      234.64    236.04           
+187      236.20    236.94   SETH:   
+188      236.94    238.76           
+189      237.50    237.96  LARRY:   
+190      238.76    239.49   SETH:   
+191      239.49    240.59           
+192      240.59    240.89  LARRY:   
+193      240.89    241.77           
+194      241.77    242.73           
+195      242.73    243.23           
+196      243.23    244.48           
+197      244.48    246.87           
+198      247.43    249.54   SETH:   
+199      250.95    252.37           
+200      251.63    252.24  LARRY:   
+201      252.24    254.94           
+202      254.94    256.50           
+
+                                                  text  
+183                     .. (H) to the= uh= .. kitchen,  
+184              ... there are- there are different --  
+185                       .. there are different ones,  
+186                      that kinda go all the way up.  
+187                                  ... I see one r-,  
+188           there's a rectang[ular one] right there,  
+189                                            [Yeah].  
+190                       ... is that one right there,  
+191                  w- that I'm flashing my light on?  
+192                                            %Yeah=,  
+193                                  it might be (Hx).  
+194                        .. %It kinda looks like it.  
+195                              And then there was --  
+196                            there's one farther up,  
+197  ... (H) and then there is this <<THUMP +one +h...  
+198              ... So you <X have X> one two three=,  
+199               ... (H) ... at least .. [two there],  
+200                                           [Three],  
+201          and then there's another one .. way down.  
+202      .. (H) I don't know if you can see it or not,  
+     time_start  time_end speaker  \
+369      470.60    473.09           
+370      473.09    475.33           
+371      476.36    477.42           
+372      477.42    479.86           
+373      480.31    480.73  LARRY:   
+374      480.65    482.44   SETH:   
+375      482.44    484.40           
+376      484.40    485.91           
+377      484.46    484.88  LARRY:   
+378      485.94    487.64   SETH:   
+379      487.64    488.96           
+380      488.96    491.84           
+381      491.84    492.46  LARRY:   
+382      492.46    492.86           
+383      492.86    494.86   SETH:   
+384      493.69    493.92  LARRY:   
+385      493.92    495.12           
+386      495.12    496.83           
+387      496.83    499.03   SETH:   
+388      499.03    499.38  LARRY:   
+
+                                                  text  
+369  ... all you gotta do is put the outdoor conden...  
+370           ... and refrigerant piping to that coil.  
+371                              ... So it .. saves --  
+372        .. it saves= additional work in the future.  
+373                                           ... Mhm.  
+374  Otherwise you gotta come back and put the coil...  
+375        which means you gotta modify the duct work,  
+376                    to [get that] coil in there so,  
+377                                           [Right].  
+378  .. (H) if you're thinking about doing it in th...  
+379          you might wanna at least put the coil in.  
+380  It only .. costs about three-hundred fifty dol...  
+381                                                Oh.  
+382                                        .. Alright.  
+383  .. It's the it's the out[door air conditioning...  
+384                                             [Well,  
+385                           .. write that in] there,  
+386                     anyway in the .. in the quote.  
+387  ... (TSK) And now that's the .. the dining roo...  
+388                                              Yeah.  
+     time_start  time_end speaker  \
+397      512.68    513.50           
+398      513.91    515.10   SETH:   
+399      515.47    516.03  LARRY:   
+400      515.47    516.03   SETH:   
+401      516.03    516.57           
+402      516.57    517.70           
+403      516.57    516.86  LARRY:   
+404      517.70    518.15   SETH:   
+405      518.15    520.54           
+406      519.18    519.49  LARRY:   
+407      520.55    521.54           
+408      521.54    522.19   SETH:   
+409      522.19    523.33           
+410      523.14    524.03  LARRY:   
+411      524.03    524.43           
+412      524.43    524.86   SETH:   
+413      524.43    524.86  LARRY:   
+414      524.86    525.61           
+415      525.61    526.27   SETH:   
+416      526.27    526.81           
+
+                                                  text  
+397                                            ... So,  
+398                         .. (H) Is this accessible?  
+399                                      ... oh yeah].  
+400                                      [I wonder] --  
+401                                       I wonder if,  
+402                  .. [was this] added on you think,  
+403                                          [(SNIFF)]  
+404                                          .. maybe?  
+405  ... I'm just wondering if that [2foun2]dation ...  
+406                                          [2M-2] --  
+407                              ... It might've been.  
+408                                    & goes to that,  
+409             .. I wonder if I can get .. into this.  
+410                            Oh you can get into it.  
+411                                              Yeah.  
+412                                         .. [Okay].  
+413                                         [Oh yeah].  
+414                              I've been under here.  
+415                                        .. Oh okay.  
+416                                         .. [Good].  
+     time_start  time_end speaker  \
+438      546.96    548.05           
+439      548.05    548.88  LARRY:   
+440      551.00    552.89   SETH:   
+441      554.47    556.59           
+442      557.44    558.43           
+443      558.43    559.69  LARRY:   
+444      559.69    560.44           
+445      560.44    561.40           
+446      561.40    563.10   SETH:   
+447      563.10    563.92  LARRY:   
+448      563.92    565.94           
+449      565.94    566.94           
+450      566.94    568.78           
+451      568.78    571.69           
+452      572.16    572.78           
+453      572.78    576.59           
+454      576.59    577.07           
+455      577.07    578.99           
+456      578.84    578.99   SETH:   
+457      578.99    580.73           
+
+                                                  text  
+438                         .. you know like the room,  
+439                                           ... Mhm.  
+440         ... the room is shaped somewhat like this.  
+441              ... <X I could X> put like one there,  
+442                                     ... one there,  
+443                      Now what we'd want you to do,  
+444                                      in this case,  
+445                                        is maybe --  
+446                   .. tie those together like that.  
+447                                .. See this this --  
+448            The end of this room might be modified.  
+449                                            ... So,  
+450                          ... all we wanna know is,  
+451  ... is that we can eventually be able to do this.  
+452                                       ... Alright.  
+453   ... To to get % .. get this= ... duct work done,  
+454                                      when we do --  
+455            when we do the modification to [the] --  
+456                                              [Oh],  
+457     so you may not do the duct work at this point?  
+     time_start  time_end speaker  \
+456      578.84    578.99   SETH:   
+457      578.99    580.73           
+458      580.73    582.00  LARRY:   
+459      580.73    582.36   SETH:   
+460      582.00    582.37  LARRY:   
+461      582.38    582.98           
+462      582.98    584.80           
+463      582.98    583.78   SETH:   
+464      584.90    587.03  LARRY:   
+465      586.08    587.91   SETH:   
+466      588.03    589.59  LARRY:   
+467      589.59    591.37           
+468      591.37    591.87           
+469      592.58    593.07           
+470      593.07    593.32           
+471      593.32    594.08           
+472      594.08    594.57           
+473      597.86    598.79           
+474      606.11    607.63           
+475      607.63    609.10           
+
+                                               text  
+456                                           [Oh],  
+457  so you may not do the duct work at this point?  
+458                       [Not .. not in this room.  
+459               [X .. XX .. do it in the future].  
+460                                       We m-] --  
+461                                        .. Yeah.  
+462               .. [Uh I I hate] to see us do it,  
+463              [<X Where are gonna be your X>] --  
+464  (H) although if we do it in the [2sidewalls2],  
+465       [2Well what would 2] the modification be.  
+466                  ... Oh we might take this out,  
+467          .. and we might push this out further,  
+468                                            and,  
+469                                          .. uh,  
+470                                        .. well,  
+471                            here's the drawings,  
+472                                     right here.  
+473                                       ... <0h=,  
+474                              ... <P let's see=,  
+475                      .. that's the guest house.  
+     time_start  time_end speaker  \
+457      578.99    580.73           
+458      580.73    582.00  LARRY:   
+459      580.73    582.36   SETH:   
+460      582.00    582.37  LARRY:   
+461      582.38    582.98           
+462      582.98    584.80           
+463      582.98    583.78   SETH:   
+464      584.90    587.03  LARRY:   
+465      586.08    587.91   SETH:   
+466      588.03    589.59  LARRY:   
+467      589.59    591.37           
+468      591.37    591.87           
+469      592.58    593.07           
+470      593.07    593.32           
+471      593.32    594.08           
+472      594.08    594.57           
+473      597.86    598.79           
+474      606.11    607.63           
+475      607.63    609.10           
+476      610.57    612.27           
+
+                                               text  
+457  so you may not do the duct work at this point?  
+458                       [Not .. not in this room.  
+459               [X .. XX .. do it in the future].  
+460                                       We m-] --  
+461                                        .. Yeah.  
+462               .. [Uh I I hate] to see us do it,  
+463              [<X Where are gonna be your X>] --  
+464  (H) although if we do it in the [2sidewalls2],  
+465       [2Well what would 2] the modification be.  
+466                  ... Oh we might take this out,  
+467          .. and we might push this out further,  
+468                                            and,  
+469                                          .. uh,  
+470                                        .. well,  
+471                            here's the drawings,  
+472                                     right here.  
+473                                       ... <0h=,  
+474                              ... <P let's see=,  
+475                      .. that's the guest house.  
+476                  ... Where is that sucker P>%>.  
+     time_start  time_end speaker  \
+479      615.90    616.21           
+480      616.21    616.42           
+481      616.42    617.04           
+482      617.04    617.36           
+483      617.36    618.87           
+484      617.36    618.14   SETH:   
+485      618.87    619.92  LARRY:   
+486      619.92    621.09           
+487      620.83    621.26   SETH:   
+488      621.26    623.07           
+489      621.66    622.45  LARRY:   
+490      622.45    623.06           
+491      623.06    625.80           
+492      624.32    626.45   SETH:   
+493      625.80    627.26  LARRY:   
+494      627.27    629.24           
+495      629.30    629.68   SETH:   
+496      629.66    629.88  LARRY:   
+497      629.88    632.58           
+498      632.58    632.94           
+
+                                                  text  
+479                                           .. Yeah,  
+480                                               I --  
+481                                      It's right --  
+482                                              i- --  
+483  .. here [it i- here it i-] here it is right here,  
+484                                [Is this the wall],  
+485                                you can see that --  
+486                    (H) this is the current [wall],  
+487                                         [oh] okay,  
+488  so are you gonna go out [2like .. three feet o...  
+489                                   [2So we might --  
+490                                   .. we might2] --  
+491      .. we might %= .. [3do a little modification.  
+492                    [3a tape- .. tapered uh .. c...  
+493                       .. A tapered3] corner there.  
+494         (H) So we might do .. a little .. of that.  
+495                                           .. Okay.  
+496                                               But,  
+497  .. if you're gonna ... put it in h- .. this en...  
+498                                              then,  
+     time_start  time_end speaker  \
+481      616.42    617.04           
+482      617.04    617.36           
+483      617.36    618.87           
+484      617.36    618.14   SETH:   
+485      618.87    619.92  LARRY:   
+486      619.92    621.09           
+487      620.83    621.26   SETH:   
+488      621.26    623.07           
+489      621.66    622.45  LARRY:   
+490      622.45    623.06           
+491      623.06    625.80           
+492      624.32    626.45   SETH:   
+493      625.80    627.26  LARRY:   
+494      627.27    629.24           
+495      629.30    629.68   SETH:   
+496      629.66    629.88  LARRY:   
+497      629.88    632.58           
+498      632.58    632.94           
+499      632.94    634.40           
+500      636.68    638.00           
+
+                                                  text  
+481                                      It's right --  
+482                                              i- --  
+483  .. here [it i- here it i-] here it is right here,  
+484                                [Is this the wall],  
+485                                you can see that --  
+486                    (H) this is the current [wall],  
+487                                         [oh] okay,  
+488  so are you gonna go out [2like .. three feet o...  
+489                                   [2So we might --  
+490                                   .. we might2] --  
+491      .. we might %= .. [3do a little modification.  
+492                    [3a tape- .. tapered uh .. c...  
+493                       .. A tapered3] corner there.  
+494         (H) So we might do .. a little .. of that.  
+495                                           .. Okay.  
+496                                               But,  
+497  .. if you're gonna ... put it in h- .. this en...  
+498                                              then,  
+499                  .. maybe it wouldn't be affected.  
+500                     ... That one might down there.  
+     time_start  time_end speaker  \
+484      617.36    618.14   SETH:   
+485      618.87    619.92  LARRY:   
+486      619.92    621.09           
+487      620.83    621.26   SETH:   
+488      621.26    623.07           
+489      621.66    622.45  LARRY:   
+490      622.45    623.06           
+491      623.06    625.80           
+492      624.32    626.45   SETH:   
+493      625.80    627.26  LARRY:   
+494      627.27    629.24           
+495      629.30    629.68   SETH:   
+496      629.66    629.88  LARRY:   
+497      629.88    632.58           
+498      632.58    632.94           
+499      632.94    634.40           
+500      636.68    638.00           
+501      638.00    638.53           
+502      638.53    639.63           
+503      640.46    640.93   SETH:   
+
+                                                  text  
+484                                [Is this the wall],  
+485                                you can see that --  
+486                    (H) this is the current [wall],  
+487                                         [oh] okay,  
+488  so are you gonna go out [2like .. three feet o...  
+489                                   [2So we might --  
+490                                   .. we might2] --  
+491      .. we might %= .. [3do a little modification.  
+492                    [3a tape- .. tapered uh .. c...  
+493                       .. A tapered3] corner there.  
+494         (H) So we might do .. a little .. of that.  
+495                                           .. Okay.  
+496                                               But,  
+497  .. if you're gonna ... put it in h- .. this en...  
+498                                              then,  
+499                  .. maybe it wouldn't be affected.  
+500                     ... That one might down there.  
+501                                        .. Because,  
+502                                       we might uh,  
+503                                        ... [Yeah],  
+     time_start  time_end speaker  \
+490      622.45    623.06           
+491      623.06    625.80           
+492      624.32    626.45   SETH:   
+493      625.80    627.26  LARRY:   
+494      627.27    629.24           
+495      629.30    629.68   SETH:   
+496      629.66    629.88  LARRY:   
+497      629.88    632.58           
+498      632.58    632.94           
+499      632.94    634.40           
+500      636.68    638.00           
+501      638.00    638.53           
+502      638.53    639.63           
+503      640.46    640.93   SETH:   
+504      640.46    640.93  LARRY:   
+505      640.93    641.63   SETH:   
+506      642.04    643.26  LARRY:   
+507      642.04    642.83   SETH:   
+508      642.83    643.25           
+509      643.25    644.51           
+
+                                                  text  
+490                                   .. we might2] --  
+491      .. we might %= .. [3do a little modification.  
+492                    [3a tape- .. tapered uh .. c...  
+493                       .. A tapered3] corner there.  
+494         (H) So we might do .. a little .. of that.  
+495                                           .. Okay.  
+496                                               But,  
+497  .. if you're gonna ... put it in h- .. this en...  
+498                                              then,  
+499                  .. maybe it wouldn't be affected.  
+500                     ... That one might down there.  
+501                                        .. Because,  
+502                                       we might uh,  
+503                                        ... [Yeah],  
+504                                               [XX]  
+505                                          see well,  
+506        .. (H) See [eventually <X we have s- X>] --  
+507                            [you know you're right.  
+508                                     .. Cause I] --  
+509             .. cause we're looking at right there,  
+     time_start  time_end speaker  \
+492      624.32    626.45   SETH:   
+493      625.80    627.26  LARRY:   
+494      627.27    629.24           
+495      629.30    629.68   SETH:   
+496      629.66    629.88  LARRY:   
+497      629.88    632.58           
+498      632.58    632.94           
+499      632.94    634.40           
+500      636.68    638.00           
+501      638.00    638.53           
+502      638.53    639.63           
+503      640.46    640.93   SETH:   
+504      640.46    640.93  LARRY:   
+505      640.93    641.63   SETH:   
+506      642.04    643.26  LARRY:   
+507      642.04    642.83   SETH:   
+508      642.83    643.25           
+509      643.25    644.51           
+510      645.05    645.51           
+511      645.51    646.40           
+
+                                                  text  
+492                    [3a tape- .. tapered uh .. c...  
+493                       .. A tapered3] corner there.  
+494         (H) So we might do .. a little .. of that.  
+495                                           .. Okay.  
+496                                               But,  
+497  .. if you're gonna ... put it in h- .. this en...  
+498                                              then,  
+499                  .. maybe it wouldn't be affected.  
+500                     ... That one might down there.  
+501                                        .. Because,  
+502                                       we might uh,  
+503                                        ... [Yeah],  
+504                                               [XX]  
+505                                          see well,  
+506        .. (H) See [eventually <X we have s- X>] --  
+507                            [you know you're right.  
+508                                     .. Cause I] --  
+509             .. cause we're looking at right there,  
+510                                        ... course,  
+511                         .. now you gonna go out --  
+     time_start  time_end speaker  \
+521      653.43    654.58           
+522      654.58    655.07  LARRY:   
+523      655.07    657.65           
+524      657.88    658.33   SETH:   
+525      658.28    659.02  LARRY:   
+526      659.01    660.25   SETH:   
+527      659.02    659.73  LARRY:   
+528      659.96    660.23           
+529      660.23    660.72           
+530      660.97    661.80           
+531      661.52    663.50   SETH:   
+532      663.85    664.79  LARRY:   
+533      663.85    664.79   SETH:   
+534      664.80    666.28  LARRY:   
+535      666.28    668.35           
+536      669.16    669.86           
+537      670.13    670.97   SETH:   
+538      670.99    671.66           
+539      671.68    673.21           
+540      673.21    674.53           
+
+                                                  text  
+521                 .. What about .. heating for that.  
+522                                           .. Well,  
+523  .. what we're gonna do is put uh .. radiated h...  
+524                                           .. Okay.  
+525                                      In- in there.  
+526                 .. [That'll be a slab] floor then.  
+527                                        [For sure].  
+528                                              Yeah,  
+529                                              yeah.  
+530                                       .. (H) [Uh],  
+531                        [So that] one might change,  
+532                                  ... (H) [2Yeah2].  
+533                                           [2uh=2],  
+534                .. I- that's a that's a good point.  
+535                           I've .. I I'm not .. uh,  
+536                                 ... we were th- --  
+537                            ... The only thing i=s,  
+538                          .. I don't know how long,  
+539           is that gonna be like ... in the future,  
+540                         like a year down the road?  
+     time_start  time_end speaker  \
+547      683.53    684.48           
+548      684.48    685.50   SETH:   
+549      685.50    687.14           
+550      687.14    688.31           
+551      688.83    692.73           
+552      692.73    693.60           
+553      693.61    695.20           
+554      695.49    695.99           
+555      695.99    697.81           
+556      696.30    696.72  LARRY:   
+557      697.81    699.35   SETH:   
+558      699.35    701.36           
+559      701.35    701.97  LARRY:   
+560      702.08    702.65           
+561      703.72    705.24   SETH:   
+562      705.24    706.33           
+563      707.58    708.04  LARRY:   
+564      708.57    709.92   SETH:   
+565      709.92    710.82           
+566      710.82    711.25           
+
+                                                  text  
+547                               ... Put that as a --  
+548                       .. But one thing you can do,  
+549                     even if you do a modification,  
+550                         you can move the register.  
+551  ... I mean say we put the register right ... h...  
+552                          .. and that's gonna b- --  
+553          %= that would obviously have to be moved,  
+554                                      ... you know,  
+555  it's not a [big deal] to move it from here to ...  
+556                                            [Yeah].  
+557        You might have to add a piece of duct work,  
+558          (H) but it's not gonna be a major change,  
+559                                              Okay.  
+560                                          ... Okay.  
+561  ... And this one you may not have to move at all.  
+562                                  That may be okay.  
+563                                       ... Alright.  
+564        ... But then that's probably how I'd do it,  
+565                      some- .. something like that,  
+566                                                or,  
+     time_start  time_end speaker  \
+558      699.35    701.36           
+559      701.35    701.97  LARRY:   
+560      702.08    702.65           
+561      703.72    705.24   SETH:   
+562      705.24    706.33           
+563      707.58    708.04  LARRY:   
+564      708.57    709.92   SETH:   
+565      709.92    710.82           
+566      710.82    711.25           
+567      711.25    712.99           
+568      713.81    715.40           
+569      715.42    718.00           
+570      718.94    720.45  LARRY:   
+571      720.15    721.58   SETH:   
+572      721.58    722.34           
+573      722.34    723.31           
+574      724.84    725.62           
+575      725.62    725.95           
+576      725.95    727.98           
+577      727.11    729.01  LARRY:   
+
+                                                  text  
+558          (H) but it's not gonna be a major change,  
+559                                              Okay.  
+560                                          ... Okay.  
+561  ... And this one you may not have to move at all.  
+562                                  That may be okay.  
+563                                       ... Alright.  
+564        ... But then that's probably how I'd do it,  
+565                      some- .. something like that,  
+566                                                or,  
+567          if I had the registers .. going that way,  
+568           ... that might be the best way to do it.  
+569             ... It'd be like for- fourteen by six,  
+570                        ... (SNIFF) (SNIFF) (SNIFF)  
+571   I mean that would probably be an eight-inch d...  
+572                           that'd be an eight-inch,  
+573                              that'd be a ten-inch,  
+574                          ... and then the furnace,  
+575                                      I don't know,  
+576     it's somewhere over there (Hx) [in that area],  
+577                                 [Furnace=] .. [...  
+     time_start  time_end speaker  \
+906     1155.14   1156.11           
+907     1156.11   1156.57           
+908     1156.57   1158.58           
+909     1158.58   1159.99           
+910     1161.99   1164.29           
+911     1164.29   1164.95           
+912     1165.49   1167.22  LARRY:   
+913     1167.25   1167.94   SETH:   
+914     1167.94   1168.68           
+915     1168.68   1170.22           
+916     1170.95   1172.94           
+917     1172.76   1173.21  LARRY:   
+918     1172.94   1174.27   SETH:   
+919     1174.25   1174.49  LARRY:   
+920     1175.55   1176.40   SETH:   
+921     1176.40   1176.81           
+922     1176.81   1178.82           
+923     1178.99   1181.09           
+924     1181.66   1183.32  LARRY:   
+925     1182.51   1183.28   SETH:   
+
+                                                  text  
+906                           ... Or you can close em,  
+907                                      %y= you know,  
+908         if you close em uh %a=- a hundred percent.  
+909                       If you close em all the way,  
+910  ... you probably don't want to shut more than ...  
+911                                       All the way.  
+912                                          ... (Hx)=  
+913                              ... Which would b- --  
+914                                   .. I'm not sure,  
+915                            (H) maybe all upstairs,  
+916  ... (H) you might wanna leave em cracked open ...  
+917                                          [Unhunh]?  
+918             Just] to make sure you get enough air,  
+919                                              Yeah.  
+920                                       ... (H) But,  
+921                                              okay,  
+922                  so we'd be looking at adding two,  
+923         ... two registers for that .. parlor room?  
+924              ... Adding two to that [parlor room],  
+925                         [And then what about th...  
+      time_start  time_end speaker  \
+982      1238.63   1239.42  LARRY:   
+983      1239.42   1241.51           
+984      1241.51   1243.82           
+985      1242.72   1243.82   SETH:   
+986      1243.82   1245.06           
+987      1245.06   1246.47           
+988      1246.49   1248.43           
+989      1248.69   1249.18  LARRY:   
+990      1249.18   1249.84           
+991      1249.35   1250.28   SETH:   
+992      1250.28   1251.59           
+993      1251.59   1252.16  LARRY:   
+994      1252.16   1252.79   SETH:   
+995      1252.79   1253.09           
+996      1253.09   1254.40           
+997      1254.44   1255.82           
+998      1256.22   1258.05           
+999      1256.44   1257.17  LARRY:   
+1000     1258.05   1258.27   SETH:   
+1001     1258.27   1259.35           
+
+                                                  text  
+982                                So that'll be good.  
+983      So maybe one register in here for the moment,  
+984      .. until we kinda feel it out [would be= uh],  
+985                                 [(SNIFF) .. Sure].  
+986                  .. I mean this one it looks like,  
+987                 .. if we put a register over here,  
+988      (H) .. you wouldn't have to change it anyway.  
+989                                          ... Yeah.  
+990                            .. No that .. [that] --  
+991                               [With your] remodel,  
+992                        that might .. work into it.  
+993                                           .. Yeah.  
+994                                 .. And like I say,  
+995                                         even i- --  
+996                    even if you do have to move it,  
+997                      .. (H) it's not X a big deal.  
+998           ... I mean [somebody] ... just moves it,  
+999                                            [Okay].  
+1000                                      .. you know,  
+1001                       a carpenter can do it even.  
+      time_start  time_end speaker  \
+993      1251.59   1252.16  LARRY:   
+994      1252.16   1252.79   SETH:   
+995      1252.79   1253.09           
+996      1253.09   1254.40           
+997      1254.44   1255.82           
+998      1256.22   1258.05           
+999      1256.44   1257.17  LARRY:   
+1000     1258.05   1258.27   SETH:   
+1001     1258.27   1259.35           
+1002     1259.36   1261.33           
+1003     1261.39   1262.48           
+1004     1262.48   1264.66           
+1005     1264.66   1265.38           
+1006     1264.75   1265.32  LARRY:   
+1007     1265.32   1266.35   SETH:   
+1008     1266.35   1266.95  LARRY:   
+1009     1267.58   1268.76           
+1010     1269.40   1270.18   SETH:   
+1011     1270.04   1270.94  LARRY:   
+1012     1270.94   1272.19   SETH:   
+
+                                                   text  
+993                                            .. Yeah.  
+994                                  .. And like I say,  
+995                                          even i- --  
+996                     even if you do have to move it,  
+997                       .. (H) it's not X a big deal.  
+998            ... I mean [somebody] ... just moves it,  
+999                                             [Okay].  
+1000                                       .. you know,  
+1001                        a carpenter can do it even.  
+1002  You don't even need to have us come out and do...  
+1003                    ... You might have to add a- --  
+1004  .. buy a piece of flexible duct and stick it o...  
+1005                                but [it's not a] --  
+1006                                            [Yeah].  
+1007                                ... not a big deal.  
+1008                                           .. Okay.  
+1009                                       ... Alright.  
+1010                                          ... Okay?  
+1011                             Well that sounds good.  
+1012             Well let me check .. downstairs again,  
+      time_start  time_end speaker  \
+1053     1319.38   1319.86           
+1054     1319.86   1320.14           
+1055     1319.86   1321.53   SETH:   
+1056     1321.53   1321.77           
+1057     1321.77   1322.67           
+1058     1322.67   1325.23           
+1059     1325.23   1326.36           
+1060     1327.59   1328.79           
+1061     1328.79   1330.34           
+1062     1330.34   1330.77           
+1063     1330.34   1332.26  LARRY:   
+1064     1332.26   1332.72           
+1065     1332.72   1333.38   SETH:   
+1066     1333.38   1333.67  LARRY:   
+1067     1333.67   1336.18           
+1068     1337.02   1337.76           
+1069     1338.05   1338.99           
+1070     1338.99   1339.87           
+1071     1340.72   1341.78   SETH:   
+1072     1342.75   1343.06  LARRY:   
+
+                                                   text  
+1053                                             ... I,  
+1054                                            [Yeah].  
+1055  [Cause that's] about the only spot .. you can ...  
+1056                                              Well,  
+1057                       I mean y- we could put a- --  
+1058  we could put a floor r- .. floor register righ...  
+1059                   I don't know if you'd want that.  
+1060          ... But that's probably where I'd put it.  
+1061  .. In fact the one that I was gonna put in there,  
+1062                                  [I'd probably] --  
+1063  [We might have] trouble getting to this spot t...  
+1064                                           I think.  
+1065                                      You think so?  
+1066                                           .. Yeah.  
+1067  .. Cause it starts getting real tight up there...  
+1068                                          ... Yeah.  
+1069                                      ... (H) Well,  
+1070                                       .. let's uh,  
+1071                             ... Maybe on this end?  
+1072                                          ... Yeah.  
+      time_start  time_end speaker  \
+1186     1522.21   1523.23  LARRY:   
+1187     1523.31   1525.47           
+1188     1525.47   1528.18           
+1189     1529.42   1531.34           
+1190     1531.35   1532.59           
+1191     1534.17   1535.42           
+1192     1535.42   1536.45           
+1193     1536.45   1537.42           
+1194     1540.45   1541.34           
+1195     1541.35   1542.30   SETH:   
+1196     1542.30   1543.76           
+1197     1546.12   1547.94           
+1198     1547.94   1548.63           
+1199     1549.60   1550.41  LARRY:   
+1200     1550.92   1552.00   SETH:   
+1201     1552.00   1552.65           
+1202     1552.65   1554.58           
+1203     1556.87   1558.45           
+1204     1564.24   1565.47           
+1205     1570.46   1571.82           
+
+                                                   text  
+1186                                      ... That guy,  
+1187              ... then there's one in the bathroom,  
+1188                   there's one in the s= ... study,  
+1189            ... and there is one in the .. library.  
+1190                               .. Or in the parlor.  
+1191           ... I don't know what we'd do with that.  
+1192                         ... Do we disconnect that,  
+1193                                     if we put two,  
+1194                            ... or do you leave it.  
+1195                                            .. Uh=,  
+1196                   .. yeah I might disconnect that.  
+1197  ... Well it's not .. it's not connected up rig...  
+1198                                                So,  
+1199                               ... Oh that's right.  
+1200                 ... so it'd just be a matter w- --  
+1201                              .. Actually it sh- --  
+1202        .. it should be capped off probably though.  
+1203                         ... And this is the study,  
+1204                               ... one right there,  
+1205                    ... and the bathroom's got one?  
+SBC031.trn
+SBC032.trn
+     time_start  time_end  speaker  \
+445     334.282   334.584   TOM_2:   
+446     334.410   335.666   TOM_3:   
+447     334.410   334.739  ELAINE:   
+448     334.584   335.460   TOM_1:   
+449     335.460   335.847            
+450     335.460   336.461  ELAINE:   
+451     336.461   337.406            
+452     336.610   336.936   TOM_3:   
+453     336.936   337.406            
+454     337.406   339.174   TOM_1:   
+455     339.174   341.147            
+456     340.341   340.703   TOM_3:   
+457     340.703   341.147  ELAINE:   
+458     341.147   341.285   TOM_1:   
+459     341.147   342.944   TOM_3:   
+460     341.575   342.423  ELAINE:   
+461     342.423   342.776            
+462     342.944   345.713   TOM_2:   
+463     345.713   346.110   TOM_3:   
+464     346.110   346.636   TOM_2:   
+
+                                                  text  
+445                                            [2Uh2],  
+446                     [2(H) And2] [3he's still XX3].  
+447                                              So2],  
+448                       He's2] [3doing quite well3],  
+449                                      [4actually4].  
+450                        [4I'm gonna go4] @back @in.  
+451                           Be[5cause it's chilly5].  
+452                                         [5Alright.  
+453                                         .. %(Hx)5]  
+454                    ... You just didn't want to uh,  
+455  .. think he might've fallen [over the ..] [2fe...  
+456                                              [@@@]  
+457                                         [2Right2].  
+458                                           Right2].  
+459    [2Or just2] [3go over the fence in the co3]=rn.  
+460                                 [3Toppled over it.  
+461                                           Right3].  
+462  ... <X Anyway X> I was sailing second mate in ...  
+463                                             Right.  
+464                                                um,  
+      time_start  time_end speaker  \
+1359    1113.026  1113.695  TOM_1:   
+1360    1113.695  1114.003  TOM_3:   
+1361    1114.003  1116.259           
+1362    1116.259  1118.249  TOM_1:   
+1363    1116.407  1117.041  TOM_3:   
+1364    1117.041  1118.421           
+1365    1118.421  1122.089           
+1366    1122.089  1124.521           
+1367    1124.521  1126.139           
+1368    1126.139  1128.024           
+1369    1126.977  1127.966  TOM_1:   
+1370    1127.966  1128.805           
+1371    1128.805  1130.731           
+1372    1130.731  1131.880           
+1373    1131.880  1132.884           
+1374    1132.884  1134.761           
+1375    1134.325  1135.121  TOM_3:   
+1376    1134.761  1135.957  TOM_1:   
+1377    1135.957  1136.593  TOM_3:   
+1378    1136.228  1136.593  TOM_1:   
+
+                                                   text  
+1359                                    [5I think5] so.  
+1360                                         <X Now X>,  
+1361                    she just ... l=ives off campus.  
+1362  (H) [She needs to get into something down there].  
+1363                                       [And that's,  
+1364                              that's a hard star]t.  
+1365   ... She needs to get into some in= campus group.  
+1366       (H) Like the writing ~Tom was talking about.  
+1367                      Which would r=eally be great.  
+1368                  ... (H) [Cause she's good at it].  
+1369                               [She might a- %n] --  
+1370                                    Might alw- -so,  
+1371     be a little .. more helpful to her down there,  
+1372                     if she had a- .. a television,  
+1373                        so when she goes home then,  
+1374      there's something to do besides sit a[rou=nd.  
+1375                                             [@@@@]  
+1376                                (H)] And be lonely.  
+1377                                      (H) [2Yeah2].  
+1378                                             [2XX2]  
+      time_start  time_end speaker  \
+1360    1113.695  1114.003  TOM_3:   
+1361    1114.003  1116.259           
+1362    1116.259  1118.249  TOM_1:   
+1363    1116.407  1117.041  TOM_3:   
+1364    1117.041  1118.421           
+1365    1118.421  1122.089           
+1366    1122.089  1124.521           
+1367    1124.521  1126.139           
+1368    1126.139  1128.024           
+1369    1126.977  1127.966  TOM_1:   
+1370    1127.966  1128.805           
+1371    1128.805  1130.731           
+1372    1130.731  1131.880           
+1373    1131.880  1132.884           
+1374    1132.884  1134.761           
+1375    1134.325  1135.121  TOM_3:   
+1376    1134.761  1135.957  TOM_1:   
+1377    1135.957  1136.593  TOM_3:   
+1378    1136.228  1136.593  TOM_1:   
+1379    1136.593  1137.224  TOM_3:   
+
+                                                   text  
+1360                                         <X Now X>,  
+1361                    she just ... l=ives off campus.  
+1362  (H) [She needs to get into something down there].  
+1363                                       [And that's,  
+1364                              that's a hard star]t.  
+1365   ... She needs to get into some in= campus group.  
+1366       (H) Like the writing ~Tom was talking about.  
+1367                      Which would r=eally be great.  
+1368                  ... (H) [Cause she's good at it].  
+1369                               [She might a- %n] --  
+1370                                    Might alw- -so,  
+1371     be a little .. more helpful to her down there,  
+1372                     if she had a- .. a television,  
+1373                        so when she goes home then,  
+1374      there's something to do besides sit a[rou=nd.  
+1375                                             [@@@@]  
+1376                                (H)] And be lonely.  
+1377                                      (H) [2Yeah2].  
+1378                                             [2XX2]  
+1379                                 .. <X That too X>.  
+SBC033.trn
+SBC034.trn
+SBC035.trn
+     time_start  time_end     speaker  \
+205     179.025   180.796               
+206     180.796   182.268               
+207     182.268   183.463      PATTY:   
+208     183.463   183.942               
+209     183.572   188.210  STEPHANIE:   
+210     188.210   191.012      PATTY:   
+211     190.009   190.275    MAUREEN:   
+212     190.275   191.306               
+213     191.012   193.319      PATTY:   
+214     191.306   193.319    MAUREEN:   
+215     193.319   194.010      PATTY:   
+216     193.319   194.437       GAIL:   
+217     194.437   195.869               
+218     194.437   195.363      PATTY:   
+219     195.363   196.592               
+220     196.592   197.415               
+221     197.415   197.859               
+222     197.859   199.707               
+223     198.986   200.020       GAIL:   
+224     199.707   201.975      PATTY:   
+
+                                                  text  
+205                    %if I wanna go to a big school,  
+206                                  that's my choice.  
+207                      If I'm willing to pay for it,  
+208                                            yes[=].  
+209  [It's] cheaper to go to a university than it i...  
+210          ... Depends where you [2feel comfortable.  
+211                                              [2Uh,  
+212                                  I have a platter,  
+213  When you get on a campus sometimes I think it ...  
+214  .. you can get a platter for that <X it's X>2] --  
+215                               [3~Gail might say3],  
+216                           [3Yeah you have3] to go,  
+217   [4you have to go <X out and visit and then X>4].  
+218                                   [4you feel like,  
+219                        .. hey I4] like this place,  
+220                            I think I could belong,  
+221                                      or you think,  
+222     (H) .. I don't I don't feel [comfortable here.  
+223                   [I don't feel comfortable here].  
+224    (H)] And that's what has to be your final goal.  
+SBC036.trn
+SBC037.trn
+SBC042.trn
+    time_start  time_end   speaker  \
+693   1119.706  1120.241  SABRINA:   
+694   1120.241  1121.291             
+695   1121.291   1124.19             
+696    1124.19  1125.894             
+697   1125.624  1126.003    KITTY:   
+698   1126.003  1128.432             
+699   1128.432  1130.517             
+700   1130.517  1131.726             
+701   1131.726  1133.304             
+702   1133.304  1137.914  SABRINA:   
+703   1137.914  1139.123             
+704   1139.123  1141.839             
+705   1141.839  1143.243    KITTY:   
+706   1143.243   1145.92             
+707   1145.771  1146.767  SABRINA:   
+708    1145.92  1146.497    KITTY:   
+709   1146.497   1146.81             
+710    1146.81  1147.108             
+711   1147.108  1147.407             
+712   1147.407  1149.318             
+
+                                                  text  
+693                                      So they c- --  
+694                           The girls could sign it.  
+695  ... If the carwash was that .. little party we...  
+696       I bet you they .. <P<X threw .. a[way X>P>].  
+697                                         [%N-] %n-,  
+698  %It's probably outside and ended up getting tr...  
+699                         ... I wanted to keep that.  
+700                  If you guys weren't gonna use it.  
+701               .. %I should've just done it myself.  
+702                            ... Hey you never know,  
+703                          %it might have gotten XX.  
+704                                        ... (SIGH)=  
+705                             ... (TSK) Ask ~Kendra.  
+706        ... She might have done something [with it.  
+707                                   [I'll ask .. X].  
+708                                      Y- you know],  
+709                                            .. I --  
+710                                               I --  
+711                                          You know,  
+712             it took me a while to make that thing.  
+    time_start  time_end   speaker  \
+696    1124.19  1125.894             
+697   1125.624  1126.003    KITTY:   
+698   1126.003  1128.432             
+699   1128.432  1130.517             
+700   1130.517  1131.726             
+701   1131.726  1133.304             
+702   1133.304  1137.914  SABRINA:   
+703   1137.914  1139.123             
+704   1139.123  1141.839             
+705   1141.839  1143.243    KITTY:   
+706   1143.243   1145.92             
+707   1145.771  1146.767  SABRINA:   
+708    1145.92  1146.497    KITTY:   
+709   1146.497   1146.81             
+710    1146.81  1147.108             
+711   1147.108  1147.407             
+712   1147.407  1149.318             
+713   1149.318  1149.567  SABRINA:   
+714   1149.567  1150.174             
+715   1150.174  1151.302    KITTY:   
+
+                                                  text  
+696       I bet you they .. <P<X threw .. a[way X>P>].  
+697                                         [%N-] %n-,  
+698  %It's probably outside and ended up getting tr...  
+699                         ... I wanted to keep that.  
+700                  If you guys weren't gonna use it.  
+701               .. %I should've just done it myself.  
+702                            ... Hey you never know,  
+703                          %it might have gotten XX.  
+704                                        ... (SIGH)=  
+705                             ... (TSK) Ask ~Kendra.  
+706        ... She might have done something [with it.  
+707                                   [I'll ask .. X].  
+708                                      Y- you know],  
+709                                            .. I --  
+710                                               I --  
+711                                          You know,  
+712             it took me a while to make that thing.  
+713                                              Well,  
+714                                            I know,  
+715                               ... You guys just --  
+SBC043.trn
+    time_start  time_end speaker  \
+5        7.179     9.818           
+6        9.818    10.068           
+7       10.068    11.519           
+8       11.519    12.066           
+9       12.066    13.800           
+10      13.800    15.158           
+11      15.158    16.015           
+12      16.015    16.619           
+13      16.619    18.766           
+14      18.766    19.390           
+15      19.390    21.329           
+16      21.329    22.344           
+17      22.344    24.566           
+18      24.566    24.800           
+19      24.800    26.395           
+20      26.395    29.201           
+21      29.201    29.838           
+22      29.838    30.719           
+23      30.719    33.344           
+24      33.344    35.394           
+
+                                                 text  
+5       ... And so Mike .. is there at seven fifteen,  
+6                                            he says,  
+7                           I wonder where .. she is.  
+8                                        .. You know,  
+9                           ... and he says I get up,  
+10  I wasn't planning on coming in until <VOX eigh...  
+11                               and here I am early.  
+12                            .. And so she comes in,  
+13  she says I apologize for .. for being late and...  
+14                                    She's I forgot,  
+15      (H) we might have to scrape windows out here,  
+16                         cause she's from Arkansas.  
+17  (H) And so she went into <X the community afte...  
+18                                             she's,  
+19  (H) <VOX it hasn't been a good morning VOX> sh...  
+20  .. (TSK) .. I bought .. four five pairs of .. ...  
+21                                     before I left,  
+22                              and had em shortened.  
+23  .. She goes and I didn't bother to try em on b...  
+24    (H) So she's all of em .. are not short enough.  
+     time_start  time_end   speaker  \
+121     132.756   133.628    ALICE:   
+122     133.628   134.635             
+123     133.628   134.093  ANNETTE:   
+124     134.635   135.908    ALICE:   
+125     135.773   135.908  ANNETTE:   
+126     135.908   137.171             
+127     136.789   137.171    ALICE:   
+128     137.171   138.094  ANNETTE:   
+129     137.620   138.094    ALICE:   
+130     138.094   138.718             
+131     138.718   140.029             
+132     140.029   141.779             
+133     140.853   141.498  ANNETTE:   
+134     141.498   142.498             
+135     142.498   143.946             
+136     143.946   144.859             
+137     144.859   145.884             
+138     145.884   146.786             
+139     146.786   148.158             
+140     148.158   149.936             
+
+                                                 text  
+121                                       ... Y- % --  
+122                       [Did you take] the Tylenol,  
+123                                              [XX]  
+124                 like I told you to yester[2day2]?  
+125                                         [2Yeah2].  
+126            I took some this morning then [3too3].  
+127                                         [3Okay3].  
+128                            Just to make [4sure4].  
+129                                      [4I think4],  
+130                                     ... you know,  
+131                 and you might be just a bug that,  
+132               .. kind of a flu [achy type thing].  
+133                                           [Yea=h.  
+134          .. Yeah cause] Jenny had that flu today,  
+135                        she went ho=me today= and,  
+136                   .. a lot of people have had it,  
+137                  b- you know the like s- fall- --  
+138  Paula went in <X and found out X> to the doctor,  
+139        she was tired of just having this kind of,  
+140                  ... just not f=eeling real well,  
+     time_start  time_end   speaker  \
+140     148.158   149.936             
+141     149.936   150.881             
+142     150.148   150.437    ALICE:   
+143     150.881   151.205  ANNETTE:   
+144     151.205   152.585             
+145     152.585   152.943    ALICE:   
+146     152.943   154.048  ANNETTE:   
+147     154.048   155.374             
+148     155.374   155.642    ALICE:   
+149     155.642   156.081             
+150     156.081   157.666  ANNETTE:   
+151     157.666   158.119             
+152     158.119   159.227             
+153     159.227   160.671    ALICE:   
+154     160.671   162.715             
+155     162.715   163.443             
+156     163.443   164.434             
+157     164.434   165.535             
+158     165.535   166.966             
+159     166.966   168.167             
+
+                                                  text  
+140                   ... just not f=eeling real well,  
+141        and she [thought she had] an ear infection,  
+142                                             [Mhm].  
+143                                       she went in,  
+144                and she she- had a sinus infection.  
+145                                               Mhm.  
+146                      .. Gave her some antibiotics.  
+147           She goes at least I'll get over it then.  
+148                                              Yeah.  
+149                                           .. Yeah.  
+150  You know so I think it .. just might have been...  
+151                                           but God,  
+152                       that was the weirdest thing.  
+153      .. (TSK) (H) That's what I did all day today,  
+154    I had ... three or four different kids come up,  
+155                                   and complain of,  
+156                                         ... nasal,  
+157                                    sinus problems?  
+158               ... So every time one of the doc- --  
+159                             .. Their docs came on,  
+     time_start  time_end speaker  \
+538     569.574   570.019           
+539     570.019   570.456           
+540     570.456   571.468           
+541     571.468   571.657           
+542     571.657   573.036           
+543     573.036   573.509           
+544     573.509   574.130           
+545     574.130   575.001           
+546     575.001   575.465           
+547     575.465   577.055           
+548     577.055   577.338           
+549     577.338   577.878           
+550     577.878   579.789           
+551     579.789   579.992           
+552     579.992   581.963           
+553     581.963   582.201           
+554     582.201   582.883           
+555     582.883   585.014           
+556     585.014   585.657           
+557     585.657   586.873           
+
+                                                  text  
+538                           if that's what you want.  
+539                                   I said you know,  
+540                          (H) .. I said God forbid,  
+541                                              I go,  
+542  we actually see each other more than two night...  
+543                                            I said,  
+544                                      (H) you know,  
+545                            (H) our relationship --  
+546                                       .. You know,  
+547  gosh if we see each other more than two nights...  
+548                                          we might,  
+549                                          you know,  
+550    ... that's not good for a relationship at a=ll.  
+551                                            I said,  
+552  we just should just talk on the phone a couple...  
+553                                         And all --  
+554                               And he's like yeah=?  
+555  (H) I said I'm being @sarcastic to make my point,  
+556                                   he's like <@ oh.  
+557                 (H) You're trying to make a point?  
+      time_start  time_end   speaker  \
+1341    1368.346  1368.637    ALICE:   
+1342    1368.637  1369.021             
+1343    1368.637  1370.463  ANNETTE:   
+1344    1369.021  1369.959    ALICE:   
+1345    1370.463  1370.784             
+1346    1370.784  1371.410             
+1347    1371.410  1371.941  ANNETTE:   
+1348    1371.941  1373.115    ALICE:   
+1349    1373.115  1373.984             
+1350    1373.984  1374.268  ANNETTE:   
+1351    1374.268  1374.877             
+1352    1374.877  1375.182    ALICE:   
+1353    1375.182  1377.520  ANNETTE:   
+1354    1377.520  1378.043             
+1355    1378.043  1379.339    ALICE:   
+1356    1379.339  1381.090             
+1357    1381.090  1383.167             
+1358    1382.689  1383.167  ANNETTE:   
+1359    1383.167  1384.041             
+1360    1384.041  1384.588             
+
+                                                   text  
+1341                                              Yeah.  
+1342                                     [I don't know.  
+1343     [(SNIFF) .. varsity probably starts at] seven.  
+1344                    Maybe it's an eight o'clock] --  
+1345                                             Seven,  
+1346                                seven <X thirty X>?  
+1347                                           .. Yeah.  
+1348                              .. (H) There weren't,  
+1349                                  a whole lot of --  
+1350                                              Yeah,  
+1351                                   might have been,  
+1352                                               Mhm.  
+1353  ... They were probably may- maybe playing an o...  
+1354                                               too.  
+1355                        .. (H) And I know dad said,  
+1356  .. yeah I don't know why they have the lights ...  
+1357       because it still was ... really [light out].  
+1358                                            [Yeah].  
+1359                       Well they have to get em on,  
+1360                                     [so they can],  
+SBC044.trn
+     time_start  time_end  speaker  \
+446     548.979   549.930            
+447     549.143   549.447  LAJUAN:   
+448     549.930   550.594     CAM:   
+449     550.594   551.319            
+450     551.319   552.562            
+451     552.562   555.159            
+452     555.159   557.044            
+453     557.044   558.004            
+454     558.004   558.515            
+455     558.515   559.390            
+456     559.390   560.697            
+457     560.697   562.152            
+458     562.152   562.903            
+459     562.903   563.719            
+460     563.719   564.635            
+461     564.635   565.411            
+462     565.411   566.520            
+463     566.520   566.995            
+464     566.995   567.620            
+465     567.620   568.303            
+
+                                                  text  
+446                   cause [she said] something like,  
+447                                         [(THROAT)]  
+448                            well it's a good thing,  
+449                              he was sort of weird,  
+450              I didn't like you hanging around him.  
+451  ... And I said <VOX what do you mean he was we...  
+452         .. And she said he was sort of effeminate.  
+453                                 .. And I was like,  
+454                             well what do you mean,  
+455                            he's gay= or something,  
+456        she's like well I think he might have been.  
+457                            ... And I said well= %,  
+458                                           ... why,  
+459                              does that bother you?  
+460                               I said because I am.  
+461                                 .. And she's like,  
+462                                           ... no=.  
+463                                        You're not.  
+464                                        I know you.  
+465                                    You're not gay.  
+SBC045.trn
+     time_start  time_end   speaker  \
+532     652.157   654.412  PATRICK:   
+533     654.412   655.153  CORINNA:   
+534     655.153   656.256             
+535     656.256   658.286  PATRICK:   
+536     658.286   658.639             
+537     658.639   659.902             
+538     659.902   661.346             
+539     661.346   662.200             
+540     662.200   662.364             
+541     662.364   663.092             
+542     663.092   663.977             
+543     663.977   666.876             
+544     666.876   668.082  CORINNA:   
+545     668.082   670.186  PATRICK:   
+546     670.186   671.859             
+547     671.859   672.605  CORINNA:   
+548     672.605   674.070  PATRICK:   
+549     674.070   676.624             
+550     676.624   678.477             
+551     678.063   679.221  CORINNA:   
+
+                                                  text  
+532           (H) I wouldn't mind going into Chicago=.  
+533                                       .. (H) Yeah,  
+534                            that's what I wanna do.  
+535                  ... That's .. gonna be my X plan,  
+536                                                oh,  
+537                                        (H) .. u=m,  
+538                (H) so far I've talked to everyone,  
+539                                everyone said yeah,  
+540                                               but,  
+541                                       % who knows,  
+542                      the money might not be there.  
+543  (H) We're planning to go to New York %i=n .. n...  
+544                                          ... Cool.  
+545  ... Two thousand we're gonna be in New York so...  
+546               .. (H) You're welcome to come along.  
+547                                    That'd be cool.  
+548                              .. (H) I thought so=.  
+549  ... Well hopefully I won't be with Natalie by ...  
+550                         ... [<X Which'd be- X>] --  
+551                                  [God I] hope not.  
+SBC047.trn
+     time_start  time_end   speaker  \
+253     228.437   230.278     FRED:   
+254     230.278   230.725             
+255     230.725   231.691             
+256     231.691   234.167  RICHARD:   
+257     232.397   233.099     FRED:   
+258     234.167   235.452             
+259     234.841   235.452  RICHARD:   
+260     235.452   236.723             
+261     236.723   237.123             
+262     237.123   239.471             
+263     239.471   241.146             
+264     241.146   242.101             
+265     242.101   243.276             
+266     243.276   243.718     FRED:   
+267     243.718   244.026  RICHARD:   
+268     244.026   244.680             
+269     244.680   245.476             
+270     245.476   245.996             
+271     245.996   247.784             
+272     247.784   248.802     FRED:   
+
+                                                  text  
+253         .. (H) They weren't all heartbroken about,  
+254                                       .. you know,  
+255                               .. ~Jeanie and that?  
+256  ... (TSK) [Well they have no ide]a what's happ...  
+257                           [They must have been] --  
+258                          They have no id[2ea XX2],  
+259                                [2When they left2],  
+260                          we were on shaky grounds,  
+261                                               but,  
+262                                   ... %= you know,  
+263         they thought it might be able to work out.  
+264                          ... So when they come in,  
+265                         they'll be pretty shocked.  
+266                                           .. Yeah.  
+267                                               And,  
+268                                          and hurt.  
+269                                        ... But uh,  
+270                                        like I say,  
+271           things .. will work out f- for the best.  
+272                              What about her folks.  
+     time_start  time_end   speaker                                  text
+273     248.802   250.127                   ... They're not sorry at all,
+274     250.127   250.387                                          hu[h].
+275     250.258   250.769  RICHARD:                             [N]o= uh,
+276     250.769   251.779                           in fact I've seen em,
+277     251.779   251.983                                            I --
+278     251.983   253.312                  I w- I went to church with em,
+279     253.312   254.862                     for the last three Sundays.
+280     254.862   255.426     FRED:                               Really?
+281     255.426   256.685  RICHARD:                   ... [With ~Jeanie].
+282     255.945   256.668     FRED:                               [Wow=].
+283     256.685   257.696  RICHARD:             ... She thought it might,
+284     257.696   257.946                                       you know,
+285     257.946   259.475               help our relationship as friends,
+286     259.475   259.978                                         and uh,
+287     259.978   262.241     FRED:  ... (H) She still considers you man.
+288     262.241   262.478                                           Hunh.
+289     262.478   263.196  RICHARD:                              Exactly.
+290     263.196   263.711                                       She does,
+291     263.711   264.242                                 because I mean,
+292     264.242   265.315                     we went to church together,
+     time_start  time_end   speaker  \
+443     410.616   411.257             
+444     411.257   412.507             
+445     412.507   413.735             
+446     413.735   414.595             
+447     414.595   416.101             
+448     416.101   416.662     FRED:   
+449     416.662   419.125             
+450     417.379   417.720  RICHARD:   
+451     419.044   419.348             
+452     419.348   420.899             
+453     420.899   422.707             
+454     422.707   423.382             
+455     423.022   425.103     FRED:   
+456     425.103   425.909             
+457     425.461   426.272  RICHARD:   
+458     426.272   427.100             
+459     427.100   427.491             
+460     427.391   428.091     FRED:   
+461     427.491   428.091  RICHARD:   
+462     428.091   429.275     FRED:   
+
+                                                  text  
+443                                    no matter what,  
+444             .. I'd put her through and everything,  
+445                        she knows deep down inside,  
+446                             I really did love her,  
+447                  but I had a problem or something.  
+448                                           .. Yeah.  
+449  ... (H) [You had] to get something out of your...  
+450                                       [<X And X>],  
+451                                          [2Y2]eah.  
+452          But I don't even know what it is in fact.  
+453    I might ... have to go to therapy or something,  
+454                                    to fi[=nd out].  
+455                                    [@(Hx)]== @@@@@  
+456                                       ... [2@(H)2]  
+457                          [2Because there's2] no --  
+458                                  There's no way I,  
+459                                         I shoul[d,  
+460                                             [(H)=]  
+461                                      .. you know],  
+462                       ... You should be like this?  
+     time_start  time_end   speaker  \
+799     769.945   770.081  RICHARD:   
+800     770.081   772.113             
+801     772.113   773.490             
+802     773.490   774.301             
+803     774.301   774.941             
+804     774.617   774.963     FRED:   
+805     774.954   775.372  RICHARD:   
+806     775.372   776.045     FRED:   
+807     775.647   777.195  RICHARD:   
+808     777.195   777.682     FRED:   
+809     777.484   778.492  RICHARD:   
+810     778.492   780.398             
+811     780.398   781.178             
+812     781.178   782.203             
+813     782.203   784.312             
+814     784.312   785.752             
+815     785.752   787.105             
+816     787.105   788.444             
+817     788.444   791.157             
+818     791.157   792.957             
+
+                                              text  
+799                                          Well,  
+800        we get ... six-hundred dollars a month.  
+801              .. Three-hundred every two weeks.  
+802                               Which isn't bad,  
+803                              I mean [I could],  
+804                                          [No].  
+805                                       I could,  
+806                                      .. (H)[=]  
+807        [Now that] I don't have to .. pay rent.  
+808                                   .. [2Yeah2].  
+809                        [2I2] might be able to,  
+810                       ... pay my credit cards,  
+811                            and my car payment,  
+812                              and my insurance,  
+813                     ... with that six-hundred.  
+814              My car payment's two fifty-eight,  
+815            the insurance is a hundred a month,  
+816                      that's three fifty-eight,  
+817  (H)= .. and maybe about three-hundred in uh=,  
+818                      ... credit cards a month.  
+SBC048.trn
+     time_start  time_end speaker  \
+671     592.227   593.139   JUDY:   
+672     592.405   593.139    LEA:   
+673     593.139   593.835           
+674     593.835   595.166           
+675     595.166   597.323           
+676     597.323   598.382           
+677     598.382   600.701           
+678     600.701   603.846    TIM:   
+679     603.846   604.375   JUDY:   
+680     604.375   605.039    LEA:   
+681     605.039   608.111           
+682     607.986   608.286    TIM:   
+683     608.286   610.092   JUDY:   
+684     610.092   612.927    LEA:   
+685     612.927   613.203           
+686     613.203   613.580    TIM:   
+687     613.580   614.545           
+688     614.545   616.334    LEA:   
+689     616.334   618.221           
+690     618.221   619.037           
+
+                                                  text  
+671                           <X I [8bet they do X>8].  
+672                                           [8Oh=8].  
+673                                              Wow=.  
+674                               <L This is super L>.  
+675                                            ... Oh,  
+676                                 this is wonderful.  
+677                                           ... Mm=.  
+678  ... Now if you only had the baskets to go with...  
+679                                         ((CAMERA))  
+680                                          .. We=ll,  
+681                    ... I might have one or two[=],  
+682                                               [XX]  
+683                                          ... Yeah.  
+684           ... At least I'll know what to look for,  
+685                                              hunh.  
+686                                              Yeah.  
+687                                  ... That's great.  
+688                ... These are like antique baskets.  
+689                                            ... Mm.  
+690                                    [Look at that].  
+     time_start  time_end speaker  \
+899     853.224   853.646           
+900     853.646   854.984    TIM:   
+901     854.984   857.069    DAN:   
+902     857.069   858.316    LEA:   
+903     858.316   858.631    DAN:   
+904     858.631   859.866           
+905     859.866   860.483    TIM:   
+906     860.309   861.331   JUDY:   
+907     861.331   862.492           
+908     862.492   864.174    LEA:   
+909     864.174   866.455    TIM:   
+910     865.236   865.705   JUDY:   
+911     866.455   868.193    TIM:   
+912     867.430   867.868   JUDY:   
+913     868.193   868.563    TIM:   
+914     868.193   869.038   JUDY:   
+915     869.038   870.365           
+916     870.365   872.136    TIM:   
+917     872.136   875.573   JUDY:   
+918     875.573   876.827    TIM:   
+
+                                                  text  
+899                                                So,  
+900                  ... <VOX That's big enou=gh VOX>.  
+901                              ... Wow look at this.  
+902                               ... That big enough?  
+903                                              Yeah.  
+904                           ... Thank you very much.  
+905                                       ... Yeah[=].  
+906                            [It'll] keep you wa=rm.  
+907                                       ... @(Hx)= @  
+908                             ... Looks good on you.  
+909  ... There might be a [little con]flict of inte...  
+910                                             [Mhm].  
+911        that it doesn't say Stan[2ford over2] here,  
+912                                     [2((CAMERA))2]  
+913                                     [3but the3] --  
+914                                      [3Aw3]= (Hx),  
+915                                       ... so what.  
+916                                  ... That's great.  
+917                                           ... Oh=.  
+918                           (KISS) ... Thanks ~Judy.  
+      time_start  time_end speaker  \
+1004     974.790   976.041           
+1005     976.041   976.746    TIM:   
+1006     976.746   977.358           
+1007     977.358   980.332           
+1008     979.960   980.707   JUDY:   
+1009     980.707   981.404    LEA:   
+1010     981.404   983.413    TIM:   
+1011     983.413   987.281   JUDY:   
+1012     987.281   988.479           
+1013     987.356   987.706    DAN:   
+1014     988.479   990.773    TIM:   
+1015     990.773   991.073    LEA:   
+1016     991.073   992.327    TIM:   
+1017     992.327   993.001   JUDY:   
+1018     992.801   993.344    TIM:   
+1019     993.344   994.022    DAN:   
+1020     994.022   995.878   JUDY:   
+1021     995.878   997.759    LEA:   
+1022     997.759   998.850   JUDY:   
+1023     998.850   999.688           
+
+                                                text  
+1004                            D- is it too= small?  
+1005                                         .. No=,  
+1006                                         .. No=.  
+1007  ... I still got room for another ten p[ounds].  
+1008                                        [@(Hx)]=  
+1009                                          .. @@@  
+1010                                      ... Goo=d.  
+1011                        ... You look good in it.  
+1012                 .. [Now let] me take a picture.  
+1013                                         [Yeah].  
+1014   ... I might just even wear that to work (Hx).  
+1015                                             (H)  
+1016                              ... Without a tie.  
+1017                                     @(Hx)= @[@]  
+1018                                           [@]@@  
+1019                                           ... @  
+1020                                      ... Okay=.  
+1021    ... I think you'll have to wait on that one.  
+1022                                  ... ((CAMERA))  
+1023                                    .. There[=].  
+SBC049.trn
+     time_start  time_end   speaker  \
+338     283.325   285.826             
+339     283.817   285.159       AL:   
+340     285.826   286.639  ANNETTE:   
+341     286.639   287.233        X:   
+342     286.639   287.542  ANNETTE:   
+343     287.424   287.992       AL:   
+344     287.542   288.743    ALLEN:   
+345     288.061   289.093       AL:   
+346     288.743   289.093    ALLEN:   
+347     289.093   290.154     DAVE:   
+348     289.093   289.453     LUCY:   
+349     289.453   289.705             
+350     289.705   289.984             
+351     289.984   290.356             
+352     290.356   291.062             
+353     291.062   293.624             
+354     292.616   293.624     DAVE:   
+355     293.624   295.158     LUCY:   
+356     295.158   297.591             
+357     296.956   297.591      DAN:   
+
+                                                  text  
+338  ... [5He died right after they <@ put the5] wi...  
+339        [5It was almost s=eventeen in the fourth5]?  
+340                            Well that'll teach him.  
+341                                [Are they winning]?  
+342                                 [@(H) @(Hx)]=[2=2]  
+343                         [2No2] [3they're losing3].  
+344                   [3Is that3] .. [4plugged in yet,  
+345                        [4Buffalo was driving em4].  
+346                                         or what4].  
+347                      [5Of course they're losing5].  
+348                                    [5You might- --  
+349                                              Oh --  
+350                                       Well well --  
+351                                  You know5] the --  
+352                               You know who I mean.  
+353  ... The guy that used to [live around the corn...  
+354                                         [XXX X XX]  
+355                           ... That during bussing,  
+356  had the illiterate spelt wrong on the side [of...  
+357                                    [Oh yeah yeah],  
+      time_start  time_end   speaker  \
+1082     977.873   978.253      DAN:   
+1083     978.253   978.858             
+1084     978.253   978.858  ANNETTE:   
+1085     978.858   980.240     LUCY:   
+1086     980.240   980.918             
+1087     980.918   981.849             
+1088     981.438   981.849  ANNETTE:   
+1089     981.849   983.129             
+1090     982.050   982.334     LUCY:   
+1091     983.129   984.863     JOHN:   
+1092     984.863   986.474             
+1093     986.474   986.867    LINDA:   
+1094     986.867   987.077  ANNETTE:   
+1095     987.077   987.713             
+1096     987.713   988.783             
+1097     988.783   991.112      DAN:   
+1098     990.228   990.612  ANNETTE:   
+1099     991.112   991.455     LUCY:   
+1100     991.455   992.953             
+1101     992.272   992.953  ANNETTE:   
+
+                                            text  
+1082                                    ... Why,  
+1083                           [what did he do].  
+1084                                      [(H)=]  
+1085           .. This- it's swollen right here.  
+1086                             It goes .. all,  
+1087                      right down [this way].  
+1088                                     [Yeah].  
+1089          It's [2on that2] side of his face.  
+1090                                   [2Yeah2],  
+1091                         ... No it's it's --  
+1092  .. Might be swollen from the .. infection.  
+1093                                 Let me see.  
+1094                                       Yeah,  
+1095                         that's what I mean.  
+1096                 Swollen from the infection.  
+1097          ... Oh that's [the tooth] here oh.  
+1098                                        [XX]  
+1099                                    .. Yeah.  
+1100                      ... [It's right here].  
+1101                          [Don't you think]?  
+      time_start  time_end   speaker  \
+1257    1124.523  1125.703     DAVE:   
+1258    1125.703  1126.771      DAN:   
+1259    1126.771  1127.824     JOHN:   
+1260    1127.336  1128.966      DAN:   
+1261    1127.824  1128.966     JOHN:   
+1262    1128.966  1130.771      DAN:   
+1263    1129.383  1129.867     DAVE:   
+1264    1130.401  1131.228     JANE:   
+1265    1131.228  1132.286     GLEN:   
+1266    1132.286  1132.654     DAVE:   
+1267    1132.654  1134.801             
+1268    1134.801  1135.516     JANE:   
+1269    1135.095  1136.048  ANNETTE:   
+1270    1135.816  1136.048     JOHN:   
+1271    1136.048  1137.615  ANNETTE:   
+1272    1137.615  1138.128             
+
+                                           text  
+1257                   ... Will you play later?  
+1258                          ... I don't know.  
+1259                 It was a hundred [dollars,  
+1260     [I'll keep telling you not right now],  
+1261                to cover the whole season].  
+1262  until [2the day just2] goes by [3maybe3].  
+1263                                  [2Hunh2]?  
+1264                          [3I don't3] care,  
+1265                        My turn to play XX.  
+1266                                      Yeah.  
+1267  ... ~Danny just said he might play later.  
+1268                                  .. XX[XX]  
+1269                    [I waste]d my [2time2].  
+1270                                   [2(Hx)2]  
+1271     It's= too bad the sun didn't come out.  
+1272                                        ...  
+SBC050.trn
+     time_start  time_end   speaker                                     text
+376     547.756   548.816                                      I said maybe.
+377     548.816   549.470                                        ... I said,
+378     549.470   550.377                            ... may[be we'll come].
+379     549.789   551.082    NANCY:                   [now m=ay]be to Woody.
+380     551.082   552.123     DANA:                   ... Does that @mean --
+381     552.123   552.449                                                  @
+382     552.449   553.653            Is that [what got you] in @trou[2ble2]?
+383     552.736   553.056    NANCY:                                    [XXX]
+384     553.477   553.653                                              [2@2]
+385     553.653   555.063     DANA:                             [3@= @@@@@3]
+386     553.653   555.063    NANCY:      [3@(H) (TSK) That might mean yes3].
+387     555.063   556.114     DANA:                             [4@(H) @@@4]
+388     555.063   556.114  ARIANNA:                   [4<BR Awe=so=me BR>4].
+389     555.063   555.539    NANCY:                            [4<@ No (Hx),
+390     555.539   556.114                                 just kidding @>4].
+391     556.114   557.459  ARIANNA:     [5<SING You know Woody5][6= SING>6].
+392     556.114   557.092    NANCY:                              [5@(H) @@5]
+393     557.092   558.345     DANA:                [6M=ay6]=be I'll do that.
+394     558.345   558.823                                  <X<% no not %>X>.
+395     558.823   560.764                ... (H) So but they just left like,
+     time_start  time_end   speaker  \
+682     775.866   776.253     DANA:   
+683     776.253   777.707  ARIANNA:   
+684     777.707   779.160             
+685     779.160   780.173             
+686     780.173   780.845             
+687     780.173   781.237    NANCY:   
+688     781.237   782.214             
+689     782.047   782.373  ARIANNA:   
+690     782.214   783.001    NANCY:   
+691     783.001   783.647  ARIANNA:   
+692     783.647   784.798             
+693     784.798   785.937             
+694     784.843   785.443    NANCY:   
+695     785.937   787.016             
+696     786.700   787.324    KELLY:   
+697     787.324   788.836             
+698     787.699   788.061     DANA:   
+699     788.836   789.575  ARIANNA:   
+700     789.575   790.052             
+701     789.575   790.052    NANCY:   
+
+                                                  text  
+682                                          .. (GASP)  
+683  And then he goes I'm gonna give you five at a ...  
+684            and you'll have to like perform for it?  
+685                        ... ~Nancy and I were like,  
+686                                            [whoa].  
+687                 [And she thought it was] so funny.  
+688                        She was like cracking [2up.  
+689                                          [2Yeah2].  
+690                                 Was2] she mangled?  
+691                                   .. I don't know,  
+692          I think she might have had a little buzz.  
+693                    [Cause she was acting] strange.  
+694                                               [XX]  
+695                                ... that [2was2] --  
+696                                        [2Wei2]=rd.  
+697                   ... Is [3that the3] ru=de uncle?  
+698                                             [3XX3]  
+699                                           ... Yes.  
+700                                             [(Hx)]  
+701                                               [XX]  
+SBC051.trn
+     time_start  time_end   speaker  \
+244     203.160   205.416     SEAN:   
+245     205.416   206.017     FRAN:   
+246     206.017   206.828             
+247     206.379   207.180     SEAN:   
+248     207.180   208.082             
+249     208.082   208.872             
+250     208.872   209.724             
+251     209.724   211.983     FRAN:   
+252     211.983   212.970             
+253     212.386   212.970     SEAN:   
+254     212.970   213.621             
+255     213.333   213.621     FRAN:   
+256     213.621   214.157     SEAN:   
+257     213.836   214.237  BERNARD:   
+258     214.032   214.330     FRAN:   
+259     214.330   215.727             
+260     214.157   215.460     SEAN:   
+261     215.727   216.016     FRAN:   
+262     215.991   217.565             
+263     216.467   217.407     SEAN:   
+
+                                                  text  
+244                 ... That's my sponsor in New York?  
+245                                        ... <P No=.  
+246                             I don't [know her P>].  
+247                                [She's an act]ress,  
+248                             .. Woody Allen movies,  
+249                                   ... Older woman,  
+250                                 about seventy-two.  
+251                            ... (H) I may know her,  
+252                                and not [know her].  
+253                                      [You'd re- --  
+254                            you might [2know her2],  
+255                                          [2Yeah2].  
+256                                 May[3be3] [4not4],  
+257                                   [3~Ly3][4=nne4],  
+258                                        [4I mean4],  
+259       [5I don't know where she goes to mee5]tings.  
+260                      New4] [5York's a big place5].  
+261                                              Yeah,  
+262  Because you've got [a thou][2sand meetings a2]...  
+263                             [Upper] [2East Side2],  
+     time_start  time_end   speaker  \
+266     218.052   219.103             
+267     219.103   220.413             
+268     219.312   220.296     SEAN:   
+269     220.413   221.453  BERNARD:   
+270     221.453   222.083     FRAN:   
+271     221.980   222.219  BERNARD:   
+272     222.083   223.139     FRAN:   
+273     223.139   224.452             
+274     224.452   225.384             
+275     225.384   228.171             
+276     228.171   229.456             
+277     229.456   230.666             
+278     230.666   232.168             
+279     232.168   233.497    ALICE:   
+280     233.497   234.172             
+281     234.172   237.099             
+282     237.099   238.150     FRAN:   
+283     238.150   239.776  BERNARD:   
+284     239.776   241.855             
+285     241.855   242.555    ALICE:   
+
+                                                  text  
+266                         I don't go uptown so much.  
+267             I'm gen[erally mostly in the Village].  
+268                          [But she comes downtown].  
+269                           You stay in the Village.  
+270                                     .. (H) Yeah[=,  
+271                                               [X].  
+272                            well] it's= convenient,  
+273                                     And it's XXXX.  
+274                                      ... <P So P>,  
+275  ... If I go off for t- some dinner party uptow...  
+276                    I might go to a meeting uptown,  
+277                           but mostly I'm downtown.  
+278                                    ... <PP So PP>,  
+279                                   ... <P New York?  
+280                                        ... Oh wow.  
+281                          ... Greenwich Village P>.  
+282                                       ... (H) Yes.  
+283                       ... Our New York connection,  
+284        we can all= like remember through y- ~Fran.  
+285                                     ... <P Oh= P>,  
+      time_start  time_end   speaker  \
+1195    1070.021  1070.734             
+1196    1070.734  1071.063             
+1197    1070.957  1071.673     SEAN:   
+1198    1071.063  1073.141     FRAN:   
+1199    1073.141  1073.782             
+1200    1073.782  1075.833             
+1201    1075.833  1076.802             
+1202    1076.802  1078.142             
+1203    1078.142  1078.629             
+1204    1078.629  1079.408             
+1205    1079.408  1081.099             
+1206    1081.099  1082.885             
+1207    1082.885  1084.225             
+1208    1084.225  1085.800  BERNARD:   
+1209    1085.800  1086.625     FRAN:   
+1210    1086.038  1086.627    ALICE:   
+1211    1086.414  1087.734     SEAN:   
+1212    1087.734  1088.760     FRAN:   
+1213    1088.600  1089.105     SEAN:   
+1214    1089.105  1090.091     FRAN:   
+
+                                                   text  
+1195                                     But then like,  
+1196                                     I don't [know,  
+1197                                     [New Orleans]?  
+1198      maybe come] here in the s=ummer or something.  
+1199                                           Because,  
+1200  <MRC it's .. just .. beastly MRC> there in the...  
+1201                              ... <PP You know PP>,  
+1202                        (H) but this is definitely,  
+1203                                           (H) and,  
+1204                                      oddly enough,  
+1205                 do you know where else I might go?  
+1206                              ... Buffalo New York.  
+1207                              Is a w=onderful city.  
+1208                                    ... I've heard.  
+1209                                ... [It ha][2s2] --  
+1210                                     [Buffal][2o2]?  
+1211                [2I2] was on the radio there today.  
+1212                                 ... You were[3=3]?  
+1213                                           [3Y3]es.  
+1214                               <HI Oh [4wow= HI>4].  
+      time_start  time_end speaker  \
+1363    1231.710  1233.205           
+1364    1233.205  1234.885           
+1365    1234.885  1235.446           
+1366    1235.446  1236.311           
+1367    1236.311  1236.937   FRAN:   
+1368    1236.622  1238.005   SEAN:   
+1369    1238.005  1238.893   FRAN:   
+1370    1238.893  1239.618           
+1371    1239.100  1240.203   SEAN:   
+1372    1240.203  1240.716  ALICE:   
+1373    1240.361  1241.426   SEAN:   
+1374    1241.426  1242.285           
+1375    1242.285  1242.954  ALICE:   
+1376    1242.954  1243.575   SEAN:   
+1377    1242.954  1243.365  ALICE:   
+1378    1243.575  1244.486   FRAN:   
+1379    1243.575  1244.486  ALICE:   
+1380    1244.486  1245.080   FRAN:   
+1381    1245.080  1250.723   SEAN:   
+1382    1250.723  1251.217  ALICE:   
+
+                                                   text  
+1363                           ... Outside of New York,  
+1364  and I couldn't go back to live in New York again,  
+1365                                         it's been,  
+1366                                   ... I'm over it.  
+1367                                         ... [Mhm].  
+1368               [This is] the best place I've found.  
+1369                                ... It <X got X> --  
+1370                                     %= [I said] --  
+1371                          [and ~Alice] always says,  
+1372                                           I [2XX2]  
+1373             [2<VOX might as well2] not look ~Sean,  
+1374                       I've looked everywhere VOX>.  
+1375                            I've looked everywhere.  
+1376                                              [@@]@  
+1377                                  [<X you know X>],  
+1378                                [2It's pointless2].  
+1379                        [2I've looked everywhere2].  
+1380                                         ... Right.  
+1381  ... This is a tiny little ... geographically w...  
+1382                                          .. Haven.  
+SBC056.trn
+     time_start  time_end speaker  \
+860     999.620  1001.265           
+861    1001.265  1003.112           
+862    1003.112  1004.466           
+863    1004.466  1005.591           
+864    1005.591  1005.816           
+865    1005.816  1007.274           
+866    1007.274  1008.284           
+867    1008.284  1010.860           
+868    1010.860  1012.728           
+869    1012.728  1013.476           
+870    1013.476  1015.901           
+871    1015.901  1017.255   GARY:   
+872    1016.777  1018.280  JULIE:   
+873    1018.280  1019.733           
+874    1019.733  1020.794           
+875    1020.794  1022.203           
+876    1022.203  1023.120           
+877    1023.120  1024.120           
+878    1024.120  1025.376           
+879    1024.120  1024.526   GARY:   
+
+                                                text  
+860                             ... Cause poor mare,  
+861    she's been off her feet for two days because,  
+862                     ... Beamer rushes the fence,  
+863                            and b=ears his teeth,  
+864                                             and,  
+865                        ... pins his ears at her,  
+866                             ... because he d- --  
+867  He .. doesn't want her to get next to his mare.  
+868           He keeps himself between his mare and,  
+869                                 .. and that one,  
+870            who might threaten (H) his mare herd.  
+871                                          @@@[@@]  
+872                 [He's really] a funny character.  
+873                   (H) I give lessons on him too,  
+874                        he's privately owned but,  
+875             (H) his owner doesn't ride him much.  
+876                            And he's real gentle.  
+877                                       ... He um,  
+878                [he was sh]own out in California,  
+879                                             [XX]  
+SBC057.trn
+     time_start  time_end  speaker  \
+437     728.104   730.775            
+438     730.775   731.275  BENTON:   
+439     731.275   733.391    NICK:   
+440     733.391   734.415            
+441     734.415   740.965            
+442     740.965   741.740            
+443     741.740   745.675    BILL:   
+444     745.675   746.480    NICK:   
+445     746.480   747.885            
+446     747.885   750.015            
+447     750.015   752.862            
+448     752.862   753.862            
+449     753.862   755.508            
+450     755.508   757.283            
+451     757.283   760.858            
+452     760.858   761.566            
+453     761.566   762.997            
+454     762.997   763.697            
+455     763.697   764.897            
+456     764.897   767.423            
+
+                                                  text  
+437  .. (H) Then I'm throwing my weight straight fo...  
+438                                              Okay.  
+439                  ... With that outer winding pull.  
+440                            ... It's all-important.  
+441                               ... Jerk him around.  
+442                                   In a big circle.  
+443                                       ... ((FALL))  
+444                                          ... Okay.  
+445                  Everything was there but the leg.  
+446                     ... ~Bill went into Uchi-mata.  
+447  ... I might have to have you throw Uchi-mata a...  
+448                     so you can throw a Hane-goshi.  
+449                              ... Think of it (Hx),  
+450                               ... as a very short,  
+451                                 ... inverted kick.  
+452                                     ... Like that.  
+453                      ... You know how you can use,  
+454                                       ... ((SLAP))  
+455                                 ... inverted kick?  
+456                          ... Up v=ery close range?  
+SBC058.trn
+     time_start  time_end  speaker  \
+644    1042.857  1043.982            
+645    1043.982  1050.887            
+646    1050.887  1053.919            
+647    1053.919  1056.911            
+648    1056.911  1058.282  STEVEN:   
+649    1058.282  1060.239   SHERI:   
+650    1060.239  1063.021            
+651    1063.021  1064.266            
+652    1064.266  1065.596  STEVEN:   
+653    1065.596  1067.434            
+654    1067.434  1068.621   SHERI:   
+655    1068.621  1070.536            
+656    1070.536  1071.600            
+657    1070.617  1071.286  STEVEN:   
+658    1071.600  1074.909            
+659    1074.909  1075.456            
+660    1075.456  1076.232            
+661    1076.232  1077.332            
+662    1077.332  1078.313   SHERI:   
+663    1078.313  1079.936            
+
+                                                  text  
+644                          if that's what you think.  
+645                                           ... (Hx)  
+646                      ... I think that's nice that,  
+647              ... they invited you to his birthday,  
+648                                ... <X He did X> X,  
+649          Yeah I'm glad you guys got to be friends.  
+650    ... Where in the heck did I put that spaghe- --  
+651                                  that pizza sauce.  
+652                                   ... Pizza sauce?  
+653                   Maybe I .. put it in the fridge.  
+654                  ... Oh do you think you might've?  
+655               ... Cause I can't find it any place.  
+656                           It's [driving me c]razy.  
+657                                            [Okay].  
+658  ... (H) because some of them I put them .. (H)...  
+659                                       What's here.  
+660                                  .. You mean this?  
+661                                   ... Pizza sauce?  
+662                                           ... Yep,  
+663           that's exactly what [I was looking for].  
+SBC059.trn
+      time_start  time_end speaker                               text
+1016     939.992   940.785    CAM:                           Oh= wow.
+1017     940.785   941.540     JO:                         [Oh] yeah.
+1018     940.785   941.315   WESS:                         [the nut]?
+1019     941.540   942.156    CAM:                       ... The nut.
+1020     942.156   942.668                          Why is she a nut.
+1021     942.668   942.942     JO:                             [Well,
+1022     942.718   943.416   WESS:                          [Oh God].
+1023     942.942   943.936     JO:                 she's just] silly.
+1024     943.936   945.366   WESS:             ... she was a ... boy.
+1025     945.366   946.920     JO:                         ... U=[m],
+1026     946.712   947.750   WESS:        [She] might've been a girl,
+1027     947.750   948.741                         but she was a boy.
+1028     948.741   949.738    CAM:                           ... @@@@
+1029     949.738   950.473     JO:                    ... [Now y-] --
+1030     950.125   951.167   WESS:                [She was a] tomboy.
+1031     951.167   952.584     JO:  He went traveling with her a lot.
+1032     952.584   952.967   WESS:                           .. Yeah,
+1033     952.967   953.592                                 ~Jim went,
+1034     953.592   954.257     JO:                           ... Hmm,
+1035     954.257   954.621   WESS:                              half,
+      time_start  time_end speaker  \
+1452    1300.085  1301.183     JO:   
+1453    1301.183  1302.328           
+1454    1302.328  1303.793           
+1455    1303.793  1305.219           
+1456    1304.404  1305.645   WESS:   
+1457    1305.645  1306.461    CAM:   
+1458    1306.461  1306.884     JO:   
+1459    1306.884  1308.665           
+1460    1308.665  1309.965           
+1461    1309.965  1310.866   WESS:   
+1462    1310.866  1312.382           
+1463    1311.407  1311.831     JO:   
+1464    1312.086  1312.644           
+1465    1312.382  1313.178    CAM:   
+1466    1312.644  1313.663     JO:   
+1467    1313.663  1313.937    CAM:   
+1468    1313.937  1314.617           
+1469    1314.617  1315.136     JO:   
+1470    1315.136  1317.289           
+1471    1317.289  1318.408           
+
+                                                 text  
+1452                                    ... Yes I do.  
+1453                           I tell you what to do.  
+1454        .. I keep you on the straight and narrow.  
+1455      If it wasn't for [me you'd be a slob VOX>].  
+1456              [Do you want me to make some] more?  
+1457                                             @@@@  
+1458                                              No,  
+1459  because .. next time we're gonna make .. decaf.  
+1460                     ... When ~Patty <X comes X>.  
+1461                                     ... Oh well,  
+1462          .. ~Cameron [might want] some [2more2],  
+1463                              [<WH<X Geez X>WH>].  
+1464                                  [2<VOX No2][3=,  
+1465                                 [3Oh no-no-no3].  
+1466                      he'll get too3] hyper VOX>.  
+1467                                              No,  
+1468                     <VOX yeah that's right VOX>.  
+1469                                               @=  
+1470                         ... (H) <P He is a slob.  
+1471                             I get so mad at him,  
+SBC060.trn
