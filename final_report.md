@@ -48,7 +48,9 @@ Stance and stancetaking, often used interchangably, refer to the ways in which p
 ### The Stance Triangle
 As Dr. Kiesling discusses in his paper "Stance and Stancetaking" (2022), stance is how people position themselves in conversations and it can be analyzed using a three-dimensional model that encompasses **evaluation**, **alignment**, and **investment**.
 
-![stance-triangle](/figures/Du-Bois-2007.png) (Du Bois, 2007, as cited in Kiesling, 2022, p. 418)
+![stance-triangle](/figures/Du-Bois-2007.png) 
+
+(Du Bois, 2007, as cited in Kiesling, 2022, p. 418)
 
 In a simple conversation, animator A evaluates an object, prompting animator B to also evaluate that object, resulting in an alignment or disalignment between the two interlocutors. Investment is the extent to which each person commits to their evaluation.
 
