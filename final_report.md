@@ -25,6 +25,11 @@ The SBCSAE includes conversations from all over the United States, encompassing 
 ### Clean-up and Processing
 The files themselves were tab-separated and had columns for time stamps, speaker names (which were psuedonyms), and the text. The text included a large amount of conventional symbols that were used to indicate many things like overlaps, pauses, pitch, quality, tone, and transcriber's notes, among others. An annotation key was provided to disambiguate the symbols, which provided a challenge when processing these files.
 
+![SBC001-excerpt](/figures/SBC001-excerpt.png) 
+
+(Du Bois, et al., 2000-2005)
+
+
 
 ### Value Add
 
