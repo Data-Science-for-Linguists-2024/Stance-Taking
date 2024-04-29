@@ -23,18 +23,40 @@ As previously mentioned, the corpus I chose for this study was the Santa Barbara
 
 The SBCSAE includes conversations from all over the United States, encompassing a wide variety of people with different regional origins, ages, occupations, genders, and ethnic and social backgrounds.
 ### Clean-up and Processing
-The files themselves were tab-separated and had columns for time stamps, speaker names (which were psuedonyms), and the text. The text included a large amount of conventional symbols that were used to indicate many things like overlaps, pauses, pitch, quality, tone, and transcriber's notes, among others. An annotation key was provided to disambiguate the symbols, which provided a challenge when processing these files.
+The files themselves are tab-separated and have columns for time stamps, speaker names (which were pseudonyms), and the text. The text includes a large amount of conventional symbols that are used to indicate many things like overlaps, pauses, pitch, quality, tone, and transcriber's notes, among others. Luckily, an annotation key was provided to disambiguate the symbols.
 
 ![SBC001-excerpt](/figures/SBC001-excerpt.png) 
 
 (Du Bois, et al., 2000-2005)
 
+To [process these files](https://github.com/Data-Science-for-Linguists-2024/Stance-Taking-in-Spontaneous-Speech/blob/main/notebooks/reprocessing_sbcsae.ipynb#Read-in-files), I read them in and stored them in individual pandas dataframes, leaving me with a single dictionary containing 43 dfs. I ran into some column issues, but the issues were resolved simply by being consistent with column names. 
 
+From there, I [extracted my target words](https://nbviewer.org/github/Data-Science-for-Linguists-2024/Stance-Taking-in-Spontaneous-Speech/blob/main/notebooks/analyzing_sbcsae.ipynb#Extract-targets), which were 'like', 'love', 'fine', 'good', 'great', 'I mean', 'might', 'alway', 'maybe', and 'very'. I then [outputted](https://nbviewer.org/github/Data-Science-for-Linguists-2024/Stance-Taking-in-Spontaneous-Speech/blob/main/notebooks/analyzing_sbcsae.ipynb#Pipeline-for-outputs) every occurrence of each target word in 20 lines of context. These [output files](https://github.com/Data-Science-for-Linguists-2024/Stance-Taking-in-Spontaneous-Speech/tree/main/targets_w_context) (example below) facilitated the annotation part of this project. 
+
+![love-output](/figures/love-output.png) 
 
 ### Value Add
+To add value to this very impressive data set, I decided to create annotations indicating the investment of certain lexical items and discourse markers. To do this, I read through each occurrence in context and used the [file summaries](https://github.com/Data-Science-for-Linguists-2024/Stance-Taking-in-Spontaneous-Speech/blob/main/file_summary.md) to better understand the scenario. I then made a judgement as to whether the target word indicated a *higher investment* in the evaluation being made (labeled `H`), or a *lower investment* (labeled `L`). This process proved to be rather difficult and tedious, so I only got through 4 of the 10 target word files; however, in the future I hope to get through the rest of them to further deepen the analysis. 
 
+After annotating the data, I then exported them to separate [text files](https://github.com/Data-Science-for-Linguists-2024/Stance-Taking-in-Spontaneous-Speech/tree/main/annotations) and [reprocessed them](https://nbviewer.org/github/Data-Science-for-Linguists-2024/Stance-Taking-in-Spontaneous-Speech/blob/main/notebooks/analyzing_sbcsae.ipynb#Analyze-the-annotated-data) for analysis purposes. I created a dataframe where the rows were the file name (SBC001-SBC060) and the columns were the target words ('maybe', 'love', 'great', 'fine'). The values were a list of tuples: (index, H or L). From this data, I was able to extract the counts of H and L for both the rows and columns, which will facilitate my analysis. 
 ## 4. Analysis
-### Research Questions
+With the data processed and annotated, I am finally able to address my research questions:
+1. Which lexical item/discourse marker is used most frequently in this corpus? 
+2. Which is most informative of the animator’s investment?
+3. What generalizations can be made for the investment level of each item/marker?
+### Research Question 1
+Since I was unable to get through all 10 of my target words, I can only partly answer this question. 
+
+![hl-counts](/figures/hl-counts.png) 
+
+Of the 4 words, 'maybe' has the highest token count across the 43 transcripts. There are two potential reasons for this substaintial influx in tokens: repetition and multiple meanings. Of all 4 target words, 'maybe' had the most repetition, most likely because it is a sort of questioning item that presents multiple options (see below).
+
+![maybes](/figures/maybes.png) 
+
+Aside from its use as a discourse marker, 'maybe' can also be used as a form of estimation: for example, "There were maybe fourty people there". In this example, 'maybe' is not being used as a hedge, but rather as an approximation. 
+### Research Question 2
+### Research Question 3
+
 ## 5. Reflection
 ### History
 ### Future Steps
