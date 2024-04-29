@@ -47,7 +47,7 @@ With the data processed and annotated, I am finally able to address my research 
 ### Research Question 1
 Since I was unable to get through all 10 of my target words, I can only partly answer this question. 
 
-![hl-counts](/figures/hl-counts.png) 
+![hl_counts](/figures/hl_counts.png) 
 
 Of the 4 words, 'maybe' has the highest token count across the 43 transcripts. There are two potential reasons for this substaintial influx in tokens: repetition and multiple meanings. Of all 4 target words, 'maybe' had the most repetition, most likely because it is a sort of questioning item that presents multiple options (see below).
 
@@ -94,10 +94,5 @@ SBC031.trn
 573     546.845   547.795              cause I have a sore throat. 
 
 
-
-NOTES on MAYBE
-- lots of repetition with `maybe`
-- `maybe` can also mean like an estimation, which I didn't include as a discourse marker
-- seems to be used often out of politeness so that the animator isn't just stating a fact but rather proposing a potential idea
 
 can see which interviews have the highest counts and relate it back to the topics! (0023 is a discussion abt a book i think so it makes sense that there is a lot of hedging)
